@@ -1,0 +1,8 @@
+All,
+
+The new zanbe19 PLATFORM reference  is the build number 150611. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe19_reference
+
+SwF

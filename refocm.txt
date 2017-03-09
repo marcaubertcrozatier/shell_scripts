@@ -1,0 +1,8 @@
+All,
+
+The new reference CCBSOCM  is the build number 95379. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_reference/     
+
+SwF

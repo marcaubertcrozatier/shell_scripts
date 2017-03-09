@@ -1,0 +1,8 @@
+All,
+
+The new mob OCM reference  is the build number 150408. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_mob_reference
+
+SwF

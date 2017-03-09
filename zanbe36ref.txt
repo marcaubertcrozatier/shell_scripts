@@ -1,0 +1,8 @@
+All,
+
+The new zanbe37 PLATFORM reference  is the build number 150062. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe37_reference
+
+SwF

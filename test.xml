@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project name="swf.app" default="all" basedir=".">
+<target name="all">
+<tstamp>
+</tstamp>
+	<echo message="date : ${TODAY}"/>
+</target>
+</project>

@@ -1,0 +1,16 @@
+
+
+
+
+
+
+CSS-Consumer_B2C
+4		Low		CBS00055003
+shopping inventory lines with CSS_PQA_MVM data displays empty prices.
+
+CSS-Consumer_B2C
+4		Low		CBS00052817
+Err 500 When you try to modify the reason after accepting a Request (On ENV#2)
+
+
+

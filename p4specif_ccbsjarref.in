@@ -1,0 +1,30 @@
+# Perforce Change Specification.
+#
+#  Change:      The change number. 'new' on a new changelist.  Read-only.
+#  Date:        The date this specification was last modified.  Read-only.
+#  Client:      The client on which the changelist was created.  Read-only.
+#  User:        The user who created the changelist. Read-only.
+#  Status:      Either 'pending' or 'submitted'. Read-only.
+#  Description: Comments about the changelist.  Required.
+#  Jobs:        What opened jobs are to be closed by this changelist.
+#               You may delete jobs from this list.  (New changelists only.)
+#  Files:       What opened files from the default changelist are to be added
+#               to this changelist.  You may delete files from this list.
+#               (New changelists only.)
+                                                                     
+Change: new
+                                                                     
+Client: ccbsb2c
+                                                                     
+User:   nsuser
+                                                                     
+Status: new
+                                                                     
+Description:
+        SWF:changement reference ccbs.
+                                                                     
+Files:
+        //depot/ccbs/swf/ik/jars/ccbs-csm-shared-1.0.M1-SNAPSHOT.jar   # edit
+        //depot/ccbs/swf/ik/jars/ccbs-onlinepc-shared-1.0.M1-SNAPSHOT.jar   # edit
+        //depot/ccbs/swf/ik/jars/ccbs-base-1.0.M1-SNAPSHOT.jar   # edit
+        //depot/ccbs/swf/ik/jars/ccbs-sandbox-shared-1.0.M1-SNAPSHOT.jar   # edit

@@ -1,0 +1,88 @@
+
+
+
+
+
+
+CSS-Channel_POS
+
+3		Medium		CBS00070049
+
+Wrong frames title in the "Modify Contact Information" (On ENV#VE1)
+
+Self Service
+
+Ready4Packaging
+
+  16778736 18-SEP-09 GA
+
+Marc Aubert					     33624481
+
+
+
+CSS-Channel_POS
+
+2		High		CBS00069794
+
+Error when trying to modify subscriber attributes (On ENV#VE1)
+
+Self Service
+
+Ready4Packaging
+
+  16778736 16-SEP-09 GA
+
+Marc Aubert					     33624226
+
+
+
+CSS-Channel_POS
+
+3		Medium		CBS00069765
+
+"Edit" button not well placed and named (On ENV#VE1)
+
+Self Service
+
+Ready4Packaging
+
+  16778736 16-SEP-09 GA
+
+Marc Aubert					     33624197
+
+
+
+CSS-Channel_POS
+
+3		Medium		CBS00066911
+
+Too many GetRole sent during a Hierarchy Browse (On ENV#4)
+
+Self Service
+
+Ready4Packaging
+
+  16778736 07-AUG-09 GA
+
+Marc Aubert					     33621343
+
+
+
+CSS-Channel_POS
+
+4		Low		CBS00066090
+
+"Level Name:  null" in the "Modify Contact Information - Confirmation" page (On
+
+ENV#4)
+
+Self Service
+
+Ready4Packaging
+
+  16778736 28-JUL-09 GA
+
+Marc Aubert					     33620522
+
+
+

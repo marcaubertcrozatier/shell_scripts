@@ -1,0 +1,8 @@
+All,
+
+The new 3.7.01.1 OCM reference  is the build number 119038. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe10_reference
+
+SwF

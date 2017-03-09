@@ -1,0 +1,8 @@
+All,
+
+The new reference CCBS B2C is the build number 87890. It's available at
+the usual location:
+
+ftp://proxytc01-xp.csg.csgsystems.com/b2c_reference
+
+SwF

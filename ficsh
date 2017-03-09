@@ -1,0 +1,2067 @@
++ PATH=/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib:/usr/local/ant/bin:/usr/local/java1.6/bin:/usr/local/maven/bin:/home/nsuser/shell:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/nsuser/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin
++ BLOCKSIZE=32768
++ ARCHSTART=3
++ ARCHSIZE=5072515
++ ARCHREALSIZE=5072515
++ RESSIZE=728
++ RESREALSIZE=23844435
++ ARCHBLOCKS=155
++ DEFAULTPERMS=002
++ INSTALLER_OVERRIDE_VMLIST=1.6+
++ INSTALLER_STDERR_REDIRECT=
++ INSTALLER_STDOUT_REDIRECT=
++ INSTALLER_HEAP_SIZE_INITIAL=16777216
++ INSTALLER_HEAP_SIZE_MAX=50331648
++ INSTALLER_OPTIONAL_ARGS=
++ RESOURCE_DIR=Linux
++ DEFAULT_UI_MODE=GUI
++ GREP=grep
+++ uname
++ '[' Linux = SunOS -a -x /usr/xpg4/bin/grep ']'
++ uimodeuse='not set'
++ hasSeenIUse=false
++ tmpArgsUse=
++ origArgsUse='-f instoldpla.conf'
++ for arg in '"$@"'
++ '[' -f '!=' '' ']'
++ tmpArgsUse=' "-f"'
++ '[' -f = -i -o -f = -I ']'
++ '[' false = true ']'
++ for arg in '"$@"'
++ '[' instoldpla.conf '!=' '' ']'
++ tmpArgsUse=' "-f" "instoldpla.conf"'
++ '[' instoldpla.conf = -i -o instoldpla.conf = -I ']'
++ '[' false = true ']'
++ '[' 'not set' '!=' silent ']'
++ echo 'Preparing to install...'
++ '[' ']'
++ VM_INCLUDED=false
++ '[' 728 ']'
++ RESOURCEZIP_INCLUDED=true
++ OLD_LANG=en_US.UTF-8
++ LANG=C
++ export LANG
++ USERENV=1
+++ pwd
++ ORIG_PWD=/home/nsuser/shell
+++ uname -s
+++ tr '[:upper:]' '[:lower:]'
++ OS_NAME=linux
++ PATH=/usr/xpg4/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib:/usr/local/ant/bin:/usr/local/java1.6/bin:/usr/local/maven/bin:/home/nsuser/shell:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/nsuser/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin
++ POSIXLY_CORRECT=1
++ export POSIXLY_CORRECT
++ OS_BLOCKSIZE=512
++ DF_AVAIL_COL=4
++ '[' ']'
++ DF_CMD='df -P'
++ df -P /
++ '[' ']'
++ DF_CMD=POSIX_XPG_DF_CMD
++ '[' ']'
++ TAIL_CMD='tail -n 1 /dev/null'
++ tail -n 1 /dev/null
++ TAILN1ARG='-n 1'
++ '[' ']'
++ '[' -x /bin/ls ']'
++ lsCMD=/bin/ls
++ trap tmp_dir_cleanup 1 2 3 4 6 8 10 12 13 15
++ pwd -P
++ PWD='pwd -P'
++ ARGZERO=old-cbs-css-rte-linux.bin
+++ echo old-cbs-css-rte-linux.bin
+++ grep '^/'
++ '[' -z '' ']'
+++ pwd -P
++ ARGZERO=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ echo /home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ sed 's,\./,/,g'
+++ sed s,//,/,g
++ ARGZERO=/home/nsuser/shell/old-cbs-css-rte-linux.bin
++ resolveLink /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_linked=true
++ rl_operand=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ dirname /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_origDir=/home/nsuser/shell
++ '[' /home/nsuser/shell = . ']'
+++ /bin/ls -l /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_ls='-rwxr-xr-x 1 nsuser swf 29021779 Jan 20 17:56 /home/nsuser/shell/old-cbs-css-rte-linux.bin'
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_origDir=/home/nsuser/shell
++ rl_prevOperand=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ /bin/ls -l /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_ls='-rwxr-xr-x 1 nsuser swf 29021779 Jan 20 17:56 /home/nsuser/shell/old-cbs-css-rte-linux.bin'
++ set x -rwxr-xr-x 1 nsuser swf 29021779 Jan 20 17:56 /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ shift 9
++ case "$rl_ls" in
++ rl_linked=false
++ rl_linkee=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ basename /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ '[' false = true -a old-cbs-css-rte-linux.bin '!=' '' ']'
++ rl_resolvedLink=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ basename /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ '[' old-cbs-css-rte-linux.bin = '' ']'
++ case "$rl_operand" in
++ '[' false = true ']'
+++ echo /home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ sed 's,/\./,/,'
++ resolvedLink=/home/nsuser/shell/old-cbs-css-rte-linux.bin
++ SEA_LOC=/home/nsuser/shell/old-cbs-css-rte-linux.bin
++ '[' ']'
++ '[' ']'
++ '[' -d /tmp ']'
++ INSTBASE=/tmp
++ ZIPLOC=/tmp/install.dir.27578
++ INSTALLER_DATA_DIR=/tmp/install.dir.27578/InstallerData
++ INSTALL_ZIP=/tmp/install.dir.27578/InstallerData/installer.zip
++ INSTALL_PADDED_ZIP=/tmp/install.dir.27578/InstallerData/installer.padded
++ DISK1_DIR=/tmp/install.dir.27578/InstallerData/Disk1
++ INSTDATA_DIR=/tmp/install.dir.27578/InstallerData/Disk1/InstData
++ RESOURCE_ZIP=/tmp/install.dir.27578/InstallerData/Disk1/InstData/Resource1.zip
++ ENV_PROPERTIES=/tmp/install.dir.27578/env.properties
++ TMP_LAX=/tmp/install.dir.27578/temp.lax
++ '[' ']'
++ mkdir /tmp/install.dir.27578
++ '[' 0 -ne 0 ']'
++ '[' ']'
++ mkdir /tmp/install.dir.27578/InstallerData
++ '[' ']'
++ EXTRA_SPACE=512
++ '[' false = true ']'
+++ expr 5072515 / 512 + 512
++ NEEDED_SPACE=10419
++ '[' ']'
+++ pwd
++ sePwd=/home/nsuser/shell
++ cd /tmp
+++ POSIX_XPG_DF_CMD .
+++ awk '{print $4}'
+++ tail -n 1
++ AVAIL_SPACE=124006144
++ isValidNumber 124006144
++ awk 'BEGIN { 
+		if ( ARGV[1] ~ /^[0-9]+$/ ) {
+			exit(0);
+		} else {
+			exit(1); 
+		}
+	     }' 124006144
++ return 0
++ '[' '!' 0 ']'
++ '[' ']'
++ cd /home/nsuser/shell
++ '[' ']'
++ '[' '!' '(' -z 124006144 -o -z 10419 ')' ']'
++ '[' 124006144 -lt 10419 ']'
++ '[' false = true ']'
++ '[' ']'
++ bundledVMPath=
++ '[' 'not set' '!=' silent ']'
++ echo 'Extracting the installation resources from the installer archive...'
+++ expr 5072515 / 32768
++ INSTALLER_BLOCKS=154
+++ expr 5072515 % 32768
++ INSTALLER_REMAINDER=26243
++ '[' 26243 -gt 0 ']'
+++ expr 154 + 1
++ INSTALLER_BLOCKS=155
++ '[' false = true ']'
++ '[' ']'
++ dd if=old-cbs-css-rte-linux.bin of=/tmp/install.dir.27578/InstallerData/installer.padded bs=32768 skip=3 count=155
++ '[' ']'
++ dd if=/tmp/install.dir.27578/InstallerData/installer.padded of=/tmp/install.dir.27578/InstallerData/installer.zip bs=5072515 count=1
++ '[' ']'
++ rm -f /tmp/install.dir.27578/InstallerData/installer.padded
+++ cksum /tmp/install.dir.27578/InstallerData/installer.zip
+++ awk '{ print $2 }'
++ INSTALL_ZIP_SIZE=5072515
++ '[' 5072515 -ne 5072515 ']'
++ '[' true = true ']'
++ '[' ']'
++ mkdir /tmp/install.dir.27578/InstallerData/Disk1
++ '[' ']'
++ mkdir /tmp/install.dir.27578/InstallerData/Disk1/InstData
++ '[' ']'
++ '[' 728 -eq 0 ']'
++ '[' false = true ']'
+++ expr 3 + 155
++ dd if=old-cbs-css-rte-linux.bin of=/tmp/install.dir.27578/InstallerData/Disk1/InstData/Resource1.zip bs=32768 skip=158 count=728
++ '[' ']'
+++ cksum /tmp/install.dir.27578/InstallerData/Disk1/InstData/Resource1.zip
+++ awk '{ print $2 }'
++ RESOURCE_ZIP_SIZE=23844435
++ '[' 23844435 -ne 23844435 ']'
++ '[' 'not set' '!=' silent ']'
++ echo 'Configuring the installer for this system'\''s environment...'
++ echo /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ TMP_LAX=/tmp/install.dir.27578/temp.lax
++ echo lax.user.dir=/tmp/install.dir.27578
++ echo lax.resource.dir=Linux
++ echo lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ echo lax.main.class=com.zerog.ia.installer.Main
++ echo lax.main.method=main
++ echo 'lax.nl.message.vm.not.loaded=The installer either could not find a Java VM, or the Java VM on this system is too old. The installer requires Java 1.1.5 or later. It can be downloaded from http://java.sun.com/products/jdk/1.1/jre/'
++ echo lax.nl.java.launcher.main.class=com.zerog.lax.LAX
++ echo lax.nl.java.launcher.main.method=main
++ echo 'lax.command.line.args=$CMD_LINE_ARGUMENTS$'
++ echo lax.nl.current.vm=
++ echo lax.nl.java.compiler=off
++ echo lax.nl.java.option.verify.mode=none
++ echo lax.nl.java.option.check.source=off
++ echo lax.stderr.redirect=
++ echo lax.stdout.redirect=
++ echo lax.nl.java.option.java.heap.size.initial=16777216
++ echo lax.nl.java.option.java.heap.size.max=50331648
++ echo lax.nl.java.option.additional=
++ echo lax.installer.unix.internal.property.0=
++ echo lax.installer.unix.ui.default=GUI
++ noLaxBackup=true
++ templaxpath=/tmp/install.dir.27578/temp.lax
++ umask 002
++ seLaxPath=/tmp/install.dir.27578/temp.lax
++ IS_INSTALLER=
++ '[' 1 ']'
++ IS_INSTALLER=true
++ VM_SEARCH_PATH=/usr/xpg4/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib:/usr/local/ant/bin:/usr/local/java1.6/bin:/usr/local/maven/bin:/home/nsuser/shell:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/nsuser/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin
++ '[' -f = LAX_VM ']'
++ lax_vm=
++ anyVMlist='JDK_J2 D12 JRE_J2 R12 JDK_J1 JRE_J1 JDK JRE ALL'
++ overrideDefaultUIMode=false
++ ignoreMode=false
++ uimode='not set'
++ hasSeenI=false
++ tmpArgs=
++ origArgs='-f instoldpla.conf'
++ for arg in '"$@"'
++ '[' -f '!=' '' ']'
++ tmpArgs=' "-f"'
++ '[' -f = -i -o -f = -I ']'
++ '[' false = true ']'
++ for arg in '"$@"'
++ '[' instoldpla.conf '!=' '' ']'
++ tmpArgs=' "-f" "instoldpla.conf"'
++ '[' instoldpla.conf = -i -o instoldpla.conf = -I ']'
++ '[' false = true ']'
++ cmdLineArgs=' "-f" "instoldpla.conf"'
++ thisScript=old-cbs-css-rte-linux.bin
++ case $thisScript in
+++ pwd
++ thisScript=/home/nsuser/shell/old-cbs-css-rte-linux.bin
++ '[' '' = file ']'
++ debugOut ''
++ case "$LAX_DEBUG" in
++ echo ''
++ debugOut '[7m========= Analyzing UNIX Environment =================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= Analyzing UNIX Environment =================================[0m'
+++ tr '[:upper:]' '[:lower:]'
+++ uname -s
++ osName=linux
++ debugOut 'Setting UNIX (linux) flavor specifics.'
++ case "$LAX_DEBUG" in
++ echo 'Setting UNIX (linux) flavor specifics.'
++ vmScript=.java_wrapper
++ case "$osName" in
+++ uname -m
++ cpuName=x86_64
++ '[' -x /bin/ls ']'
++ lsCMD=/bin/ls
++ debugOut 'Importing UNIX environment into LAX properties.'
++ case "$LAX_DEBUG" in
++ echo 'Importing UNIX environment into LAX properties.'
++ debugOut 'Checking for POSIX awk.'
++ case "$LAX_DEBUG" in
++ echo 'Checking for POSIX awk.'
++ AWK=nawk
++ AWK=awk
++ '[' -z '' ']'
++ TMPDIR=/tmp
++ '[' -z '' ']'
++ '[' -d /tmp ']'
++ envPropertiesFile=/tmp/env.properties.27578
++ awk -v LAX_PREFIX=lax.nl.env. '
+END { 
+	for (var in ENVIRON) 
+	{
+		# get variable value
+		value = ENVIRON[var]
+
+		# strip newlines
+		gsub(/\n/, " ", value)
+  
+		# convert one backslash to two
+		gsub(/\\/, "\\\\", value)
+  
+		# print as LAX property
+		print LAX_PREFIX "exact_case." var "=" value
+		print LAX_PREFIX tolower(var) "=" value
+		print LAX_PREFIX toupper(var) "=" value
+	}
+}'
++ debugOut ''
++ case "$LAX_DEBUG" in
++ echo ''
++ debugOut '[7m========= Analyzing LAX ==============================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= Analyzing LAX ==============================================[0m'
+++ pwd
++ olddir=/home/nsuser/shell
++ resolveLink /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_linked=true
++ rl_operand=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ dirname /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_origDir=/home/nsuser/shell
+++ /bin/ls -l /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ rl_ls='-rwxr-xr-x 1 nsuser swf 29021779 Jan 20 17:56 /home/nsuser/shell/old-cbs-css-rte-linux.bin'
++ case "$rl_ls" in
++ resolvedLink=/home/nsuser/shell/old-cbs-css-rte-linux.bin
++ return
++ absLauncherName=/home/nsuser/shell/old-cbs-css-rte-linux.bin
+++ dirname /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ cd /home/nsuser/shell
++ '[' true '!=' '' ']'
++ '[' '!' -z /tmp/install.dir.27578/temp.lax ']'
++ propfname=/tmp/install.dir.27578/temp.lax
++ '[' '!' -r /tmp/install.dir.27578/temp.lax ']'
++ debugOut 'LAX found............................ OK.'
++ case "$LAX_DEBUG" in
++ echo 'LAX found............................ OK.'
++ OFS=' 	
+'
+++ cat /tmp/install.dir.27578/temp.lax
+++ sed -e 's~^\([^\=]*\)\=\(.*\)~\1\\2~g' -e 's~=~~g' -e 's~~=~g'
+++ grep =
++ set x lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=The installer either could not find a Java VM, or the Java VM on this system is too old. The installer requires Java 1.1.5 or later. It can be downloaded from http://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI
++ shift
++ test 51 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578'
++ shift
++ test 50 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux'
++ shift
++ test 49 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip'
++ shift
++ test 48 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main'
++ shift
++ test 47 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main'
++ shift
++ test 46 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=The'
++ shift
++ test 45 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=Theinstaller'
++ shift
++ test 44 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=Theinstallereither'
++ shift
++ test 43 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=Theinstallereithercould'
++ shift
++ test 42 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=Theinstallereithercouldnot'
++ shift
++ test 41 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=Theinstallereithercouldnotfind'
++ shift
++ test 40 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=Theinstallereithercouldnotfinda'
++ shift
++ test 39 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJava'
++ shift
++ test 38 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,'
++ shift
++ test 37 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,or'
++ shift
++ test 36 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,orthe'
++ shift
++ test 35 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJava'
++ shift
++ test 34 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVM'
++ shift
++ test 33 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMon'
++ shift
++ test 32 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthis'
++ shift
++ test 31 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystem'
++ shift
++ test 30 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemis'
++ shift
++ test 29 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistoo'
++ shift
++ test 28 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.'
++ shift
++ test 27 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.The'
++ shift
++ test 26 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.Theinstaller'
++ shift
++ test 25 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.Theinstallerrequires'
++ shift
++ test 24 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava'
++ shift
++ test 23 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5'
++ shift
++ test 22 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5or'
++ shift
++ test 21 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.'
++ shift
++ test 20 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.It'
++ shift
++ test 19 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcan'
++ shift
++ test 18 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbe'
++ shift
++ test 17 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloaded'
++ shift
++ test 16 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfrom'
++ shift
++ test 15 -gt 0
++ case "x${1}x" in
++ BIFS=
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/'
++ shift
++ test 14 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX'
++ shift
++ test 13 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main'
++ shift
++ test 12 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$'
++ shift
++ test 11 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm='
++ shift
++ test 10 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off'
++ shift
++ test 9 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none'
++ shift
++ test 8 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off'
++ shift
++ test 7 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect='
++ shift
++ test 6 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect='
++ shift
++ test 5 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216'
++ shift
++ test 4 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648'
++ shift
++ test 3 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional='
++ shift
++ test 2 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0='
++ shift
++ test 1 -gt 0
++ case "x${1}x" in
++ BIFS=' '
++ case "x${2}x" in
++ AIFS=$'\017'
++ INPUT=' lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ shift
++ test 0 -gt 0
++ test 'x lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.user.dir=/tmp/install.dir.27578 lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main $'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/' lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.user.dir=/tmp/install.dir.27578
++ shift
++ INPUT='lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.user.dir /tmp/install.dir.27578
++ shift
++ IFS=' 	
+'
++ lhs=lax.user.dir
++ shift
++ rhs=/tmp/install.dir.27578
++ case "$rhs" in
++ case $lhs in
++ lax_user_dir=/tmp/install.dir.27578
+++ echo /tmp/install.dir.27578
+++ sed 's;^[ ]*\(.*\)[ ]*$;\1;'
++ lax_user_dir=/tmp/install.dir.27578
++ test 'xlax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.resource.dir=Linux lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main $'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/' lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.resource.dir=Linux
++ shift
++ INPUT='lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.resource.dir Linux
++ shift
++ IFS=' 	
+'
++ lhs=lax.resource.dir
++ shift
++ rhs=Linux
++ case "$rhs" in
++ case $lhs in
++ lax_resource_dir=Linux
+++ echo Linux
+++ sed 's;^[ ]*\(.*\)[ ]*$;\1;'
++ lax_resource_dir=Linux
++ test 'xlax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip lax.main.class=com.zerog.ia.installer.Main lax.main.method=main $'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/' lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.class.path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ shift
++ INPUT='lax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.class.path /tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ shift
++ IFS=' 	
+'
++ lhs=lax.class.path
++ shift
++ rhs=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ case "$rhs" in
++ case $lhs in
++ lax_class_path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ test 'xlax.main.class=com.zerog.ia.installer.Main lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.main.class=com.zerog.ia.installer.Main lax.main.method=main $'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/' lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.main.class=com.zerog.ia.installer.Main
++ shift
++ INPUT='lax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.main.class com.zerog.ia.installer.Main
++ shift
++ IFS=' 	
+'
++ lhs=lax.main.class
++ shift
++ rhs=com.zerog.ia.installer.Main
++ case "$rhs" in
++ case $lhs in
++ lax_main_class=com.zerog.ia.installer.Main
++ test 'xlax.main.method=main lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.main.method=main $'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/' lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.main.method=main
++ shift
++ INPUT='lax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.main.method main
++ shift
++ IFS=' 	
+'
++ lhs=lax.main.method
++ shift
++ rhs=main
++ case "$rhs" in
++ case $lhs in
++ test 'xlax.nl.message.vm.not.loaded=TheinstallereithercouldnotfindaJavaVM,ortheJavaVMonthissystemistooold.TheinstallerrequiresJava1.1.5orlater.Itcanbedownloadedfromhttp://java.sun.com/products/jdk/1.1/jre/ lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x $'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/' lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=$'lax.nl.message.vm.not.loaded=The\017installer\017either\017could\017not\017find\017a\017Java\017VM,\017or\017the\017Java\017VM\017on\017this\017system\017is\017too\017old.\017The\017installer\017requires\017Java\0171.1.5\017or\017later.\017It\017can\017be\017downloaded\017from\017http://java.sun.com/products/jdk/1.1/jre/'
++ shift
++ INPUT='lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.message.vm.not.loaded The installer either could not find a Java VM, or the Java VM on this system is too old. The installer requires Java 1.1.5 or later. It can be downloaded from http://java.sun.com/products/jdk/1.1/jre/
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.message.vm.not.loaded
++ shift
++ rhs='The installer either could not find a Java VM, or the Java VM on this system is too old. The installer requires Java 1.1.5 or later. It can be downloaded from http://java.sun.com/products/jdk/1.1/jre/'
++ case "$rhs" in
++ case $lhs in
++ lax_nl_message_vm_loaded='The installer either could not find a Java VM, or the Java VM on this system is too old. The installer requires Java 1.1.5 or later. It can be downloaded from http://java.sun.com/products/jdk/1.1/jre/'
++ test 'xlax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.launcher.main.class=com.zerog.lax.LAX lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.launcher.main.class=com.zerog.lax.LAX
++ shift
++ INPUT='lax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.launcher.main.class com.zerog.lax.LAX
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.launcher.main.class
++ shift
++ rhs=com.zerog.lax.LAX
++ case "$rhs" in
++ case $lhs in
++ lax_nl_java_launcher_main_class=com.zerog.lax.LAX
++ test 'xlax.nl.java.launcher.main.method=main lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.launcher.main.method=main 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.launcher.main.method=main
++ shift
++ INPUT='lax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.launcher.main.method main
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.launcher.main.method
++ shift
++ rhs=main
++ case "$rhs" in
++ case $lhs in
++ test 'xlax.command.line.args=$CMD_LINE_ARGUMENTS$ lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x 'lax.command.line.args=$CMD_LINE_ARGUMENTS$' lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X='lax.command.line.args=$CMD_LINE_ARGUMENTS$'
++ shift
++ INPUT='lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.command.line.args '$CMD_LINE_ARGUMENTS$'
++ shift
++ IFS=' 	
+'
++ lhs=lax.command.line.args
++ shift
++ rhs='$CMD_LINE_ARGUMENTS$'
++ case "$rhs" in
++ case $lhs in
++ test 'xlax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.current.vm= lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.current.vm=
++ shift
++ INPUT='lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.current.vm
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.current.vm
++ shift
++ rhs=
++ case "$rhs" in
++ case $lhs in
++ lax_nl_current_vm=
++ test 'xlax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.compiler=off lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.compiler=off
++ shift
++ INPUT='lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.compiler off
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.compiler
++ shift
++ rhs=off
++ case "$rhs" in
++ case $lhs in
++ lax_nl_java_compiler=off
++ test 'xlax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.option.verify.mode=none lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.option.verify.mode=none
++ shift
++ INPUT='lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.option.verify.mode none
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.option.verify.mode
++ shift
++ rhs=none
++ case "$rhs" in
++ case $lhs in
++ verify_mode=none
++ test 'xlax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.option.check.source=off lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.option.check.source=off
++ shift
++ INPUT='lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.option.check.source off
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.option.check.source
++ shift
++ rhs=off
++ case "$rhs" in
++ case $lhs in
++ verify=off
++ test 'xlax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.stderr.redirect= lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.stderr.redirect=
++ shift
++ INPUT='lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.stderr.redirect
++ shift
++ IFS=' 	
+'
++ lhs=lax.stderr.redirect
++ shift
++ rhs=
++ case "$rhs" in
++ case $lhs in
++ lax_stderr_redirect=
++ test 'xlax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.stdout.redirect= lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.stdout.redirect=
++ shift
++ INPUT='lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.stdout.redirect
++ shift
++ IFS=' 	
+'
++ lhs=lax.stdout.redirect
++ shift
++ rhs=
++ case "$rhs" in
++ case $lhs in
++ lax_stdout_redirect=
++ test 'xlax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.option.java.heap.size.initial=16777216 lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.option.java.heap.size.initial=16777216
++ shift
++ INPUT='lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.option.java.heap.size.initial 16777216
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.option.java.heap.size.initial
++ shift
++ rhs=16777216
++ case "$rhs" in
++ case $lhs in
++ jhinit=16777216
++ test 'xlax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.option.java.heap.size.max=50331648 lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.option.java.heap.size.max=50331648
++ shift
++ INPUT='lax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.option.java.heap.size.max 50331648
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.option.java.heap.size.max
++ shift
++ rhs=50331648
++ case "$rhs" in
++ case $lhs in
++ jhmax=50331648
++ test 'xlax.nl.java.option.additional= lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.nl.java.option.additional= lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.nl.java.option.additional=
++ shift
++ INPUT='lax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI'
++ IFS=$'=\017'
++ set x lax.nl.java.option.additional
++ shift
++ IFS=' 	
+'
++ lhs=lax.nl.java.option.additional
++ shift
++ rhs=
++ case "$rhs" in
++ case $lhs in
++ lax_nl_java_option_additional=
++ test 'xlax.installer.unix.internal.property.0= lax.installer.unix.ui.default=GUI' '!=' x
++ set x lax.installer.unix.internal.property.0= $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=lax.installer.unix.internal.property.0=
++ shift
++ INPUT=$'lax.installer.unix.ui.default=GUI\017'
++ IFS=$'=\017'
++ set x lax.installer.unix.internal.property.0
++ shift
++ IFS=' 	
+'
++ lhs=lax.installer.unix.internal.property.0
++ shift
++ rhs=
++ case "$rhs" in
++ case $lhs in
++ test $'xlax.installer.unix.ui.default=GUI\017' '!=' x
++ set x $'lax.installer.unix.ui.default=GUI\017'
++ shift
++ X=$'lax.installer.unix.ui.default=GUI\017'
++ shift
++ INPUT=
++ IFS=$'=\017'
++ set x lax.installer.unix.ui.default GUI
++ shift
++ IFS=' 	
+'
++ lhs=lax.installer.unix.ui.default
++ shift
++ rhs=GUI
++ case "$rhs" in
++ case $lhs in
++ lax_installer_unix_ui_default=GUI
++ test x '!=' x
++ debugOut 'LAX properties read.................. OK.'
++ case "$LAX_DEBUG" in
++ echo 'LAX properties read.................. OK.'
++ '[' /tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip = '' ']'
++ '[' com.zerog.lax.LAX = '' ']'
++ '[' '!' -z 1.6+ ']'
++ lax_nl_valid_vm_list=1.6+
++ '[' false = false ']'
++ '[' -n GUI -a false = false ']'
++ '[' GUI = SILENT ']'
++ '[' GUI = CONSOLE ']'
++ '[' GUI = GUI ']'
++ isSilent=false
++ isConsole=false
++ uimode=gui
+++ echo /tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
+++ sed 's^;^:^g'
++ lax_class_path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
+++ dirname /home/nsuser/shell/old-cbs-css-rte-linux.bin
++ absInstallDir=/home/nsuser/shell
++ OFS=' 	
+'
++ IFS=:
++ set x /tmp/install.dir.27578/InstallerData /tmp/install.dir.27578/InstallerData/installer.zip
++ shift
++ IFS=' 	
+'
++ tmp_lcp=
++ test 2 -gt 0
++ case "$1" in
++ '[' '' = '' ']'
++ tmp_lcp=/tmp/install.dir.27578/InstallerData
++ shift
++ test 1 -gt 0
++ case "$1" in
++ '[' /tmp/install.dir.27578/InstallerData = '' ']'
++ tmp_lcp=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ shift
++ test 0 -gt 0
++ lax_class_path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ OFS=' 	
+'
++ IFS=:
++ set x /tmp/install.dir.27578/InstallerData /tmp/install.dir.27578/InstallerData/installer.zip
++ shift
++ IFS=' 	
+'
++ tmp_lcp=
++ test 2 -gt 0
++ case "$1" in
++ '[' '' = '' ']'
++ tmp_lcp=/tmp/install.dir.27578/InstallerData
++ shift
++ test 1 -gt 0
++ case "$1" in
++ '[' /tmp/install.dir.27578/InstallerData = '' ']'
++ tmp_lcp=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ shift
++ test 0 -gt 0
++ lax_class_path=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip
++ case "$smclp" in
++ '[' '' = file -o '' = '' ']'
++ echo lax.stderr.redirect=
++ echo lax.stdout.redirect=
++ lax_version=4.5
++ validVMtypeList=1.6+
++ '[' 1.6+ = ALL -o 1.6+ = '' ']'
++ debugOut ''
++ case "$LAX_DEBUG" in
++ echo ''
++ debugOut '[7m========= Finding VM =================================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= Finding VM =================================================[0m'
++ debugOut '[1mValid VM types.......................... 1.6+[0m'
++ case "$LAX_DEBUG" in
++ echo '[1mValid VM types.......................... 1.6+[0m'
++ '[' '!' -z '' ']'
++ tmpValidVMlist=
++ for type in '$validVMtypeList'
++ case $type in
++ tmpValidVMlist=' 1.6+ '
++ validVMtypeList=' 1.6+ '
++ debugOut '[1mExpanded Valid VM types.................  1.6+ [0m'
++ case "$LAX_DEBUG" in
++ echo '[1mExpanded Valid VM types.................  1.6+ [0m'
++ '[' '' = LAX_VM ']'
++ laxVMisValid=false
++ '[' '!' -z '' -a -x '' ']'
++ '[' false = true ']'
++ debugOut '[1mWARNING! No valid lax.nl.current.vm available.[0m'
++ case "$LAX_DEBUG" in
++ echo '[1mWARNING! No valid lax.nl.current.vm available.[0m'
++ debugOut /usr/xpg4/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib:/usr/local/ant/bin:/usr/local/java1.6/bin:/usr/local/maven/bin:/home/nsuser/shell:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/nsuser/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin
++ case "$LAX_DEBUG" in
++ echo /usr/xpg4/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib:/usr/local/ant/bin:/usr/local/java1.6/bin:/usr/local/maven/bin:/home/nsuser/shell:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/nsuser/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin
+++ echo /usr/xpg4/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin:/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib:/usr/local/ant/bin:/usr/local/java1.6/bin:/usr/local/maven/bin:/home/nsuser/shell:/usr/lib64/qt-3.3/bin:/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/nsuser/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin
+++ tr : '\012'
++ uniquedPath='/usr/xpg4/bin
+/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin
+/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib
+/usr/local/ant/bin
+/usr/local/java1.6/bin
+/usr/local/maven/bin
+/home/nsuser/shell
+/usr/lib64/qt-3.3/bin
+/usr/kerberos/bin
+/usr/local/bin
+/bin
+/usr/bin
+/home/nsuser/bin
+/bin
+/usr/bin
+/sbin
+/usr/sbin
+/usr/local/bin'
++ vmNumber=0
++ OFS=' 	
+'
++ IFS=:
++ set x '/usr/xpg4/bin
+/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin
+/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib
+/usr/local/ant/bin
+/usr/local/java1.6/bin
+/usr/local/maven/bin
+/home/nsuser/shell
+/usr/lib64/qt-3.3/bin
+/usr/kerberos/bin
+/usr/local/bin
+/bin
+/usr/bin
+/home/nsuser/bin
+/bin
+/usr/bin
+/sbin
+/usr/sbin
+/usr/local/bin'
++ shift
++ IFS=' 	
+'
++ debugOut '[1mSearching for VMs in PATH:[0m'
++ case "$LAX_DEBUG" in
++ echo '[1mSearching for VMs in PATH:[0m'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/xpg4/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/xpg4/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/xpg4/bin/java
++ '[' -x /usr/xpg4/bin/java -a '(' '!' -d /usr/xpg4/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/xpg4/bin/jre
++ '[' -x /usr/xpg4/bin/jre -a '(' '!' -d /usr/xpg4/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/xpg4/bin/oldjava
++ '[' -x /usr/xpg4/bin/oldjava -a '(' '!' -d /usr/xpg4/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin'
++ for binaryName in java jre oldjava
++ vmPath=/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/java
++ '[' -x /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/java -a '(' '!' -d /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/jre
++ '[' -x /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/jre -a '(' '!' -d /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/oldjava
++ '[' -x /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/oldjava -a '(' '!' -d /home/oracle/app/oracle/product/11.2.0/dbhome_1/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib'
++ for binaryName in java jre oldjava
++ vmPath=/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/java
++ '[' -x /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/java -a '(' '!' -d /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/jre
++ '[' -x /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/jre -a '(' '!' -d /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/oldjava
++ '[' -x /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/oldjava -a '(' '!' -d /home/oracle/app/oracle/product/11.2.0/dbhome_1/lib/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/local/ant/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/local/ant/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/ant/bin/java
++ '[' -x /usr/local/ant/bin/java -a '(' '!' -d /usr/local/ant/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/ant/bin/jre
++ '[' -x /usr/local/ant/bin/jre -a '(' '!' -d /usr/local/ant/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/ant/bin/oldjava
++ '[' -x /usr/local/ant/bin/oldjava -a '(' '!' -d /usr/local/ant/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/local/java1.6/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/local/java1.6/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/java1.6/bin/java
++ '[' -x /usr/local/java1.6/bin/java -a '(' '!' -d /usr/local/java1.6/bin/java ')' ']'
++ debugOut '  Found VM:............................. /usr/local/java1.6/bin/java'
++ case "$LAX_DEBUG" in
++ echo '  Found VM:............................. /usr/local/java1.6/bin/java'
++ inspectVM /usr/local/java1.6/bin/java
++ resolveLink /usr/local/java1.6/bin/java
++ rl_linked=true
++ rl_operand=/usr/local/java1.6/bin/java
+++ dirname /usr/local/java1.6/bin/java
++ rl_origDir=/usr/local/java1.6/bin
+++ /bin/ls -l /usr/local/java1.6/bin/java
++ rl_ls='-rwxr-xr-x 1 root root 50810 Jul 31  2009 /usr/local/java1.6/bin/java'
++ case "$rl_ls" in
++ resolvedLink=/usr/local/java1.6/bin/java
++ return
++ inspectee=/usr/local/java1.6/bin/java
+++ dirname /usr/local/java1.6/bin/java
++ inspecteeDir=/usr/local/java1.6/bin
+++ basename /usr/local/java1.6/bin/java
++ inspecteeName=java
++ inspectedVMpath=/usr/local/java1.6/bin/java
++ '[' java = oldjava ']'
++ '[' java = java ']'
++ quirk_classesZip=
++ '[' linux = rhapsody ']'
++ '[' -r /usr/local/java1.6/bin/../lib/classes.zip -o -r '' ']'
++ '[' -r /usr/local/java1.6/bin/../lib/dt.jar ']'
++ inspectedOldVMtype=D12
++ inspectedVMtype=JDK_J2
++ '[' -r /usr/local/java1.6/bin/pack200 ']'
++ inspectedVMVersion=1.5
++ getJavaVersion /usr/local/java1.6/bin/java
++ javaExe=/usr/local/java1.6/bin/java
+++ /usr/local/java1.6/bin/java -version
+++ awk '
+$3 ~ /"[0-9]\.[0-9]\.[0-9][^"]*"$/ {
+	gsub ("[^0-9._]", "", $3)
+	print $3
+}
+	'
++ javaVersion=1.6.0_16
++ unset javaExe
++ '[' -n 1.6.0_16 ']'
++ inspectedVMVersion=1.6.0_16
++ unset javaVersion
++ eval vmBinary0=/usr/local/java1.6/bin/java
+++ vmBinary0=/usr/local/java1.6/bin/java
++ eval vmType0=JDK_J2
+++ vmType0=JDK_J2
++ eval oldVMtype0=D12
+++ oldVMtype0=D12
++ eval vmVersion0=1.6.0_16
+++ vmVersion0=1.6.0_16
+++ expr 0 + 1
++ vmNumber=1
++ debugOut '   Version:............................. 1.6.0_16'
++ case "$LAX_DEBUG" in
++ echo '   Version:............................. 1.6.0_16'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/java1.6/bin/jre
++ '[' -x /usr/local/java1.6/bin/jre -a '(' '!' -d /usr/local/java1.6/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/java1.6/bin/oldjava
++ '[' -x /usr/local/java1.6/bin/oldjava -a '(' '!' -d /usr/local/java1.6/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/local/maven/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/local/maven/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/maven/bin/java
++ '[' -x /usr/local/maven/bin/java -a '(' '!' -d /usr/local/maven/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/maven/bin/jre
++ '[' -x /usr/local/maven/bin/jre -a '(' '!' -d /usr/local/maven/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/maven/bin/oldjava
++ '[' -x /usr/local/maven/bin/oldjava -a '(' '!' -d /usr/local/maven/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /home/nsuser/shell'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /home/nsuser/shell'
++ for binaryName in java jre oldjava
++ vmPath=/home/nsuser/shell/java
++ '[' -x /home/nsuser/shell/java -a '(' '!' -d /home/nsuser/shell/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/nsuser/shell/jre
++ '[' -x /home/nsuser/shell/jre -a '(' '!' -d /home/nsuser/shell/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/nsuser/shell/oldjava
++ '[' -x /home/nsuser/shell/oldjava -a '(' '!' -d /home/nsuser/shell/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/lib64/qt-3.3/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/lib64/qt-3.3/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/lib64/qt-3.3/bin/java
++ '[' -x /usr/lib64/qt-3.3/bin/java -a '(' '!' -d /usr/lib64/qt-3.3/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/lib64/qt-3.3/bin/jre
++ '[' -x /usr/lib64/qt-3.3/bin/jre -a '(' '!' -d /usr/lib64/qt-3.3/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/lib64/qt-3.3/bin/oldjava
++ '[' -x /usr/lib64/qt-3.3/bin/oldjava -a '(' '!' -d /usr/lib64/qt-3.3/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/kerberos/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/kerberos/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/kerberos/bin/java
++ '[' -x /usr/kerberos/bin/java -a '(' '!' -d /usr/kerberos/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/kerberos/bin/jre
++ '[' -x /usr/kerberos/bin/jre -a '(' '!' -d /usr/kerberos/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/kerberos/bin/oldjava
++ '[' -x /usr/kerberos/bin/oldjava -a '(' '!' -d /usr/kerberos/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/local/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/local/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/bin/java
++ '[' -x /usr/local/bin/java -a '(' '!' -d /usr/local/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/bin/jre
++ '[' -x /usr/local/bin/jre -a '(' '!' -d /usr/local/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/bin/oldjava
++ '[' -x /usr/local/bin/oldjava -a '(' '!' -d /usr/local/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /bin'
++ for binaryName in java jre oldjava
++ vmPath=/bin/java
++ '[' -x /bin/java -a '(' '!' -d /bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/bin/jre
++ '[' -x /bin/jre -a '(' '!' -d /bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/bin/oldjava
++ '[' -x /bin/oldjava -a '(' '!' -d /bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/bin/java
++ '[' -x /usr/bin/java -a '(' '!' -d /usr/bin/java ')' ']'
++ debugOut '  Found VM:............................. /usr/bin/java'
++ case "$LAX_DEBUG" in
++ echo '  Found VM:............................. /usr/bin/java'
++ inspectVM /usr/bin/java
++ resolveLink /usr/bin/java
++ rl_linked=true
++ rl_operand=/usr/bin/java
+++ dirname /usr/bin/java
++ rl_origDir=/usr/bin
+++ /bin/ls -l /usr/bin/java
++ rl_ls='lrwxrwxrwx 1 root root 22 Sep  9 10:27 /usr/bin/java -> /etc/alternatives/java'
++ case "$rl_ls" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /usr/bin/java
++ rl_origDir=/usr/bin
++ rl_prevOperand=/usr/bin/java
+++ /bin/ls -l /usr/bin/java
++ rl_ls='lrwxrwxrwx 1 root root 22 Sep  9 10:27 /usr/bin/java -> /etc/alternatives/java'
++ set x lrwxrwxrwx 1 root root 22 Sep 9 10:27 /usr/bin/java '->' /etc/alternatives/java
++ shift 9
++ case "$rl_ls" in
++ rl_linked=true
++ rl_linker=
++ '[' /usr/bin/java '!=' '->' -a 3 -gt 1 ']'
++ rl_linker=' /usr/bin/java'
++ shift
++ '[' '->' '!=' '->' -a 2 -gt 1 ']'
++ '[' '->' = '->' ']'
++ shift
++ rl_linkee=/etc/alternatives/java
+++ basename /etc/alternatives/java
++ '[' true = true -a java '!=' .java_wrapper ']'
++ rl_operand=/etc/alternatives/java
++ case "$rl_operand" in
++ case "$rl_operand" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /etc/alternatives/java
++ rl_origDir=/etc/alternatives
++ rl_prevOperand=/etc/alternatives/java
+++ /bin/ls -l /etc/alternatives/java
++ rl_ls='lrwxrwxrwx 1 root root 35 Sep  9 10:27 /etc/alternatives/java -> /usr/lib/jvm/jre-1.4.2-gcj/bin/java'
++ set x lrwxrwxrwx 1 root root 35 Sep 9 10:27 /etc/alternatives/java '->' /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ shift 9
++ case "$rl_ls" in
++ rl_linked=true
++ rl_linker=
++ '[' /etc/alternatives/java '!=' '->' -a 3 -gt 1 ']'
++ rl_linker=' /etc/alternatives/java'
++ shift
++ '[' '->' '!=' '->' -a 2 -gt 1 ']'
++ '[' '->' = '->' ']'
++ shift
++ rl_linkee=/usr/lib/jvm/jre-1.4.2-gcj/bin/java
+++ basename /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ '[' true = true -a java '!=' .java_wrapper ']'
++ rl_operand=/usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ case "$rl_operand" in
++ case "$rl_operand" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ rl_origDir=/usr/lib/jvm/jre-1.4.2-gcj/bin
++ rl_prevOperand=/usr/lib/jvm/jre-1.4.2-gcj/bin/java
+++ /bin/ls -l /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ rl_ls='lrwxrwxrwx 1 root root 12 Sep  9 10:27 /usr/lib/jvm/jre-1.4.2-gcj/bin/java -> /usr/bin/gij'
++ set x lrwxrwxrwx 1 root root 12 Sep 9 10:27 /usr/lib/jvm/jre-1.4.2-gcj/bin/java '->' /usr/bin/gij
++ shift 9
++ case "$rl_ls" in
++ rl_linked=true
++ rl_linker=
++ '[' /usr/lib/jvm/jre-1.4.2-gcj/bin/java '!=' '->' -a 3 -gt 1 ']'
++ rl_linker=' /usr/lib/jvm/jre-1.4.2-gcj/bin/java'
++ shift
++ '[' '->' '!=' '->' -a 2 -gt 1 ']'
++ '[' '->' = '->' ']'
++ shift
++ rl_linkee=/usr/bin/gij
+++ basename /usr/bin/gij
++ '[' true = true -a gij '!=' .java_wrapper ']'
++ rl_operand=/usr/bin/gij
++ case "$rl_operand" in
++ case "$rl_operand" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /usr/bin/gij
++ rl_origDir=/usr/bin
++ rl_prevOperand=/usr/bin/gij
+++ /bin/ls -l /usr/bin/gij
++ rl_ls='-rwxr-xr-x 1 root root 8984 Dec  9  2009 /usr/bin/gij'
++ set x -rwxr-xr-x 1 root root 8984 Dec 9 2009 /usr/bin/gij
++ shift 9
++ case "$rl_ls" in
++ rl_linked=false
++ rl_linkee=/usr/bin/gij
+++ basename /usr/bin/gij
++ '[' false = true -a gij '!=' .java_wrapper ']'
++ rl_resolvedLink=/usr/bin/gij
+++ basename /usr/bin/gij
++ '[' gij = .java_wrapper ']'
++ case "$rl_operand" in
++ '[' false = true ']'
+++ echo /usr/bin/gij
+++ sed 's,/\./,/,'
++ resolvedLink=/usr/bin/gij
++ inspectee=/usr/bin/gij
+++ dirname /usr/bin/gij
++ inspecteeDir=/usr/bin
+++ basename /usr/bin/gij
++ inspecteeName=gij
++ inspectedVMpath=/usr/bin/gij
++ '[' gij = oldjava ']'
++ '[' gij = java ']'
++ '[' gij = jre ']'
++ inspectedOldVMtype=UNKNOWN
++ inspectedVMtype=UNKNOWN
++ eval vmBinary1=/usr/bin/gij
+++ vmBinary1=/usr/bin/gij
++ eval vmType1=UNKNOWN
+++ vmType1=UNKNOWN
++ eval oldVMtype1=UNKNOWN
+++ oldVMtype1=UNKNOWN
++ eval vmVersion1=1.6.0_16
+++ vmVersion1=1.6.0_16
+++ expr 1 + 1
++ vmNumber=2
++ debugOut '   Version:............................. 1.6.0_16'
++ case "$LAX_DEBUG" in
++ echo '   Version:............................. 1.6.0_16'
++ for binaryName in java jre oldjava
++ vmPath=/usr/bin/jre
++ '[' -x /usr/bin/jre -a '(' '!' -d /usr/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/bin/oldjava
++ '[' -x /usr/bin/oldjava -a '(' '!' -d /usr/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /home/nsuser/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /home/nsuser/bin'
++ for binaryName in java jre oldjava
++ vmPath=/home/nsuser/bin/java
++ '[' -x /home/nsuser/bin/java -a '(' '!' -d /home/nsuser/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/nsuser/bin/jre
++ '[' -x /home/nsuser/bin/jre -a '(' '!' -d /home/nsuser/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/home/nsuser/bin/oldjava
++ '[' -x /home/nsuser/bin/oldjava -a '(' '!' -d /home/nsuser/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /bin'
++ for binaryName in java jre oldjava
++ vmPath=/bin/java
++ '[' -x /bin/java -a '(' '!' -d /bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/bin/jre
++ '[' -x /bin/jre -a '(' '!' -d /bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/bin/oldjava
++ '[' -x /bin/oldjava -a '(' '!' -d /bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/bin/java
++ '[' -x /usr/bin/java -a '(' '!' -d /usr/bin/java ')' ']'
++ debugOut '  Found VM:............................. /usr/bin/java'
++ case "$LAX_DEBUG" in
++ echo '  Found VM:............................. /usr/bin/java'
++ inspectVM /usr/bin/java
++ resolveLink /usr/bin/java
++ rl_linked=true
++ rl_operand=/usr/bin/java
+++ dirname /usr/bin/java
++ rl_origDir=/usr/bin
+++ /bin/ls -l /usr/bin/java
++ rl_ls='lrwxrwxrwx 1 root root 22 Sep  9 10:27 /usr/bin/java -> /etc/alternatives/java'
++ case "$rl_ls" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /usr/bin/java
++ rl_origDir=/usr/bin
++ rl_prevOperand=/usr/bin/java
+++ /bin/ls -l /usr/bin/java
++ rl_ls='lrwxrwxrwx 1 root root 22 Sep  9 10:27 /usr/bin/java -> /etc/alternatives/java'
++ set x lrwxrwxrwx 1 root root 22 Sep 9 10:27 /usr/bin/java '->' /etc/alternatives/java
++ shift 9
++ case "$rl_ls" in
++ rl_linked=true
++ rl_linker=
++ '[' /usr/bin/java '!=' '->' -a 3 -gt 1 ']'
++ rl_linker=' /usr/bin/java'
++ shift
++ '[' '->' '!=' '->' -a 2 -gt 1 ']'
++ '[' '->' = '->' ']'
++ shift
++ rl_linkee=/etc/alternatives/java
+++ basename /etc/alternatives/java
++ '[' true = true -a java '!=' .java_wrapper ']'
++ rl_operand=/etc/alternatives/java
++ case "$rl_operand" in
++ case "$rl_operand" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /etc/alternatives/java
++ rl_origDir=/etc/alternatives
++ rl_prevOperand=/etc/alternatives/java
+++ /bin/ls -l /etc/alternatives/java
++ rl_ls='lrwxrwxrwx 1 root root 35 Sep  9 10:27 /etc/alternatives/java -> /usr/lib/jvm/jre-1.4.2-gcj/bin/java'
++ set x lrwxrwxrwx 1 root root 35 Sep 9 10:27 /etc/alternatives/java '->' /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ shift 9
++ case "$rl_ls" in
++ rl_linked=true
++ rl_linker=
++ '[' /etc/alternatives/java '!=' '->' -a 3 -gt 1 ']'
++ rl_linker=' /etc/alternatives/java'
++ shift
++ '[' '->' '!=' '->' -a 2 -gt 1 ']'
++ '[' '->' = '->' ']'
++ shift
++ rl_linkee=/usr/lib/jvm/jre-1.4.2-gcj/bin/java
+++ basename /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ '[' true = true -a java '!=' .java_wrapper ']'
++ rl_operand=/usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ case "$rl_operand" in
++ case "$rl_operand" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ rl_origDir=/usr/lib/jvm/jre-1.4.2-gcj/bin
++ rl_prevOperand=/usr/lib/jvm/jre-1.4.2-gcj/bin/java
+++ /bin/ls -l /usr/lib/jvm/jre-1.4.2-gcj/bin/java
++ rl_ls='lrwxrwxrwx 1 root root 12 Sep  9 10:27 /usr/lib/jvm/jre-1.4.2-gcj/bin/java -> /usr/bin/gij'
++ set x lrwxrwxrwx 1 root root 12 Sep 9 10:27 /usr/lib/jvm/jre-1.4.2-gcj/bin/java '->' /usr/bin/gij
++ shift 9
++ case "$rl_ls" in
++ rl_linked=true
++ rl_linker=
++ '[' /usr/lib/jvm/jre-1.4.2-gcj/bin/java '!=' '->' -a 3 -gt 1 ']'
++ rl_linker=' /usr/lib/jvm/jre-1.4.2-gcj/bin/java'
++ shift
++ '[' '->' '!=' '->' -a 2 -gt 1 ']'
++ '[' '->' = '->' ']'
++ shift
++ rl_linkee=/usr/bin/gij
+++ basename /usr/bin/gij
++ '[' true = true -a gij '!=' .java_wrapper ']'
++ rl_operand=/usr/bin/gij
++ case "$rl_operand" in
++ case "$rl_operand" in
++ '[' true = true ']'
++ case "$rl_operand" in
+++ dirname /usr/bin/gij
++ rl_origDir=/usr/bin
++ rl_prevOperand=/usr/bin/gij
+++ /bin/ls -l /usr/bin/gij
++ rl_ls='-rwxr-xr-x 1 root root 8984 Dec  9  2009 /usr/bin/gij'
++ set x -rwxr-xr-x 1 root root 8984 Dec 9 2009 /usr/bin/gij
++ shift 9
++ case "$rl_ls" in
++ rl_linked=false
++ rl_linkee=/usr/bin/gij
+++ basename /usr/bin/gij
++ '[' false = true -a gij '!=' .java_wrapper ']'
++ rl_resolvedLink=/usr/bin/gij
+++ basename /usr/bin/gij
++ '[' gij = .java_wrapper ']'
++ case "$rl_operand" in
++ '[' false = true ']'
+++ echo /usr/bin/gij
+++ sed 's,/\./,/,'
++ resolvedLink=/usr/bin/gij
++ inspectee=/usr/bin/gij
+++ dirname /usr/bin/gij
++ inspecteeDir=/usr/bin
+++ basename /usr/bin/gij
++ inspecteeName=gij
++ inspectedVMpath=/usr/bin/gij
++ '[' gij = oldjava ']'
++ '[' gij = java ']'
++ '[' gij = jre ']'
++ inspectedOldVMtype=UNKNOWN
++ inspectedVMtype=UNKNOWN
++ eval vmBinary2=/usr/bin/gij
+++ vmBinary2=/usr/bin/gij
++ eval vmType2=UNKNOWN
+++ vmType2=UNKNOWN
++ eval oldVMtype2=UNKNOWN
+++ oldVMtype2=UNKNOWN
++ eval vmVersion2=1.6.0_16
+++ vmVersion2=1.6.0_16
+++ expr 2 + 1
++ vmNumber=3
++ debugOut '   Version:............................. 1.6.0_16'
++ case "$LAX_DEBUG" in
++ echo '   Version:............................. 1.6.0_16'
++ for binaryName in java jre oldjava
++ vmPath=/usr/bin/jre
++ '[' -x /usr/bin/jre -a '(' '!' -d /usr/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/bin/oldjava
++ '[' -x /usr/bin/oldjava -a '(' '!' -d /usr/bin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /sbin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /sbin'
++ for binaryName in java jre oldjava
++ vmPath=/sbin/java
++ '[' -x /sbin/java -a '(' '!' -d /sbin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/sbin/jre
++ '[' -x /sbin/jre -a '(' '!' -d /sbin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/sbin/oldjava
++ '[' -x /sbin/oldjava -a '(' '!' -d /sbin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/sbin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/sbin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/sbin/java
++ '[' -x /usr/sbin/java -a '(' '!' -d /usr/sbin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/sbin/jre
++ '[' -x /usr/sbin/jre -a '(' '!' -d /usr/sbin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/sbin/oldjava
++ '[' -x /usr/sbin/oldjava -a '(' '!' -d /usr/sbin/oldjava ')' ']'
++ for pathDir in '$*'
++ debugOut 'Looking in:............................. /usr/local/bin'
++ case "$LAX_DEBUG" in
++ echo 'Looking in:............................. /usr/local/bin'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/bin/java
++ '[' -x /usr/local/bin/java -a '(' '!' -d /usr/local/bin/java ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/bin/jre
++ '[' -x /usr/local/bin/jre -a '(' '!' -d /usr/local/bin/jre ')' ']'
++ for binaryName in java jre oldjava
++ vmPath=/usr/local/bin/oldjava
++ '[' -x /usr/local/bin/oldjava -a '(' '!' -d /usr/local/bin/oldjava ')' ']'
++ actvmType=
++ vmHighNumber=3
++ for validType in '$validVMtypeList'
++ vmNumber=0
++ '[' 0 -lt 3 ']'
++ eval 'type=$vmType0'
+++ type=JDK_J2
++ eval 'oldType=$oldVMtype0'
+++ oldType=D12
++ eval 'bin=$vmBinary0'
+++ bin=/usr/local/java1.6/bin/java
++ eval 'version=$vmVersion0'
+++ version=1.6.0_16
++ case "${type} ${oldType}" in
++ strictCheck 1.6.0_16 1.6+ JDK_J2
++ vmVersion=1.6.0_16
++ pattern=1.6+
++ types=JDK_J2
+++ awk '
+BEGIN {
+	if ( ARGV[1] ~ /^(JDK|JRE)_/ ) {
+		printf ("version=%s\ntype=%s\n", substr(ARGV[1],5), substr(ARGV[1], 1, 3) );
+	} else {
+		printf ("version=%s\ntype=%s\n",ARGV[1],"none");
+	}
+}
+	' 1.6+
++ eval version=1.6+ type=none
+++ version=1.6+
+++ type=none
++ awk '
+function asNum(s) {
+	return s+0;
+}
+function versionToNumber(verStr) {
+    split(verStr, verVec, "[._+*]");
+    return (asNum(verVec[1]) * 1000000) + \
+           (asNum(verVec[2]) * 10000)   + \
+           (asNum(verVec[3]) * 100)     + \
+            asNum(verVec[4]);
+}
+function subVersionOf(version, pattern) {
+		pString = sprintf("%0.8d", pattern);
+		vString = sprintf("%0.8d", version);
+    sub( "0+$", "", pString );
+    return vString ~ "^" + pString;
+}
+BEGIN {
+    version = versionToNumber( ARGV[1] );
+    pattern = versionToNumber( ARGV[2] );
+    op      = substr(ARGV[2],length(ARGV[2]) );
+		if      (op=="+") success = version >= pattern;
+		else if (op=="*") success = subVersionOf(version, pattern);
+		else 							success = version == pattern;
+    if (success) exit(0);
+    exit(1);
+}
+	' 1.6.0_16 1.6+
++ success=0
++ '[' 0 = 0 ']'
++ case "none $types" in
++ debugOut 'checking: "1.6.0_16" against "1.6+": passed'
++ case "$LAX_DEBUG" in
++ echo 'checking: "1.6.0_16" against "1.6+": passed'
++ success=0
++ return 0
++ actvm=/usr/local/java1.6/bin/java
++ actvmType=none
++ debugOut '[1m* Using VM:............................. /usr/local/java1.6/bin/java[0m'
++ case "$LAX_DEBUG" in
++ echo '[1m* Using VM:............................. /usr/local/java1.6/bin/java[0m'
++ break 2
++ '[' -z /usr/local/java1.6/bin/java ']'
++ echo lax.nl.current.vm=/usr/local/java1.6/bin/java
++ case "$actvmType" in
++ actvmVersion=
++ '[' '' = 1.1 ']'
++ verbo=none
++ '[' none = normal ']'
++ '[' none = all ']'
++ '[' none = gc ']'
++ gcxtnt=none
++ '[' none = min ']'
++ gcthrd=none
++ '[' '' = 1.1 ']'
++ nsmax=none
++ '[' none '!=' none ']'
++ jsmax=none
++ '[' none '!=' none ']'
++ jhmax=50331648
++ '[' 50331648 '!=' none ']'
++ '[' '' = 1.1 ']'
++ '[' '' = 1.2 ']'
++ jhinit=16777216
++ '[' 16777216 '!=' none ']'
++ '[' '' = 1.1 ']'
++ '[' '' = 1.2 ']'
++ debug=off
++ '[' off '!=' off ']'
++ jitOnOrOff=on
++ '[' '!' -z '' -a none = JDK_J1 ']'
++ '[' '!' -z '' -a none = JDK_J2 ']'
++ '[' '!' -z '' -a none = JRE_J1 ']'
++ '[' '!' -z '' -a none = JRE_J2 ']'
++ '[' '!' -z '' -a none = J1 ']'
++ '[' '!' -z '' -a none = J2 ']'
++ '[' '!' -z '' -a none = JRE ']'
++ '[' '!' -z '' -a none = JDK ']'
++ '[' '!' -z '' ']'
++ '[' '!' -z '' -a none = JDK_J1 ']'
++ '[' '!' -z '' -a none = JDK_J2 ']'
++ '[' '!' -z '' -a none = JRE_J1 ']'
++ '[' '!' -z '' -a none = JRE_J2 ']'
++ '[' '!' -z '' -a none = J1 ']'
++ '[' '!' -z '' -a none = J2 ']'
++ '[' '!' -z '' -a none = JRE ']'
++ '[' '!' -z '' -a none = JDK ']'
++ '[' '!' -z '' ']'
++ '[' '!' -z '' -a none = JDK_J1 ']'
++ '[' '!' -z '' -a none = JDK_J2 ']'
++ '[' '!' -z '' -a none = JRE_J1 ']'
++ '[' '!' -z '' -a none = JRE_J2 ']'
++ '[' '!' -z '' -a none = J1 ']'
++ '[' '!' -z '' -a none = J2 ']'
++ '[' '!' -z '' -a none = JRE ']'
++ '[' '!' -z '' -a none = JDK ']'
++ '[' '!' -z '' ']'
++ '[' '!' -z '' ']'
++ '[' '!' -z off ']'
++ jitOnOrOff=off
++ '[' off = off ']'
++ '[' '' = 1.1 ']'
++ '[' '' = 1.2 ']'
++ debugOut 'Unknown VM version. Cannot set JIT Options.'
++ case "$LAX_DEBUG" in
++ echo 'Unknown VM version. Cannot set JIT Options.'
++ options=' '
++ linux_LD_ASSUME_KERNEL_hack=0
+++ cat /etc/redhat-release
+++ grep '7\.1'
+++ wc -l
++ '[' 0 = 1 ']'
+++ uname
+++ which strings
++ '[' Linux = Linux -a -n /usr/bin/strings ']'
++ debugOut 'checking for NPTL + JVM vulernability...'
++ case "$LAX_DEBUG" in
++ echo 'checking for NPTL + JVM vulernability...'
+++ strings /lib/libc.so.6
+++ grep -i nptl
++ nptl='NPTL 2.5'
++ '[' 'NPTL 2.5' ']'
++ debugOut 'NPTL detected! checking for vulnerable JVM....'
++ case "$LAX_DEBUG" in
++ echo 'NPTL detected! checking for vulnerable JVM....'
++ export LD_ASSUME_KERNEL=2.2.5
++ LD_ASSUME_KERNEL=2.2.5
++ /usr/local/java1.6/bin/java -version
++ '[' 127 -eq 0 ']'
++ unset LD_ASSUME_KERNEL
++ '[' 0 -eq 1 ']'
++ options='  '
++ '[' '!' /tmp/install.dir.27578 = '' ']'
++ '[' '!' /tmp/install.dir.27578 = . ']'
++ cd /tmp/install.dir.27578
++ debugOut ''
++ case "$LAX_DEBUG" in
++ echo ''
++ debugOut '[7m========= Virtual Machine Options ====================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= Virtual Machine Options ====================================[0m'
++ debugOut 'LAX properties incorporated............. OK.'
++ case "$LAX_DEBUG" in
++ echo 'LAX properties incorporated............. OK.'
++ debugOut 'classpath............................... "/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip"'
++ case "$LAX_DEBUG" in
++ echo 'classpath............................... "/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip"'
++ debugOut 'main class.............................. "com.zerog.ia.installer.Main"'
++ case "$LAX_DEBUG" in
++ echo 'main class.............................. "com.zerog.ia.installer.Main"'
++ debugOut '.lax file path.......................... "/tmp/install.dir.27578/temp.lax"'
++ case "$LAX_DEBUG" in
++ echo '.lax file path.......................... "/tmp/install.dir.27578/temp.lax"'
++ debugOut 'user directory.......................... "/tmp/install.dir.27578"'
++ case "$LAX_DEBUG" in
++ echo 'user directory.......................... "/tmp/install.dir.27578"'
++ debugOut 'stdout to............................... ""'
++ case "$LAX_DEBUG" in
++ echo 'stdout to............................... ""'
++ debugOut 'sterr to................................ ""'
++ case "$LAX_DEBUG" in
++ echo 'sterr to................................ ""'
++ debugOut 'install directory....................... ""'
++ case "$LAX_DEBUG" in
++ echo 'install directory....................... ""'
++ debugOut 'JIT..................................... none'
++ case "$LAX_DEBUG" in
++ echo 'JIT..................................... none'
++ debugOut 'option (verify)......................... off'
++ case "$LAX_DEBUG" in
++ echo 'option (verify)......................... off'
++ debugOut 'option (verbosity)...................... none'
++ case "$LAX_DEBUG" in
++ echo 'option (verbosity)...................... none'
++ debugOut 'option (garbage collection extent)...... none'
++ case "$LAX_DEBUG" in
++ echo 'option (garbage collection extent)...... none'
++ debugOut 'option (garbage collection thread)...... none'
++ case "$LAX_DEBUG" in
++ echo 'option (garbage collection thread)...... none'
++ debugOut 'option (native stack max size).......... none'
++ case "$LAX_DEBUG" in
++ echo 'option (native stack max size).......... none'
++ debugOut 'option (java stack max size)............ none'
++ case "$LAX_DEBUG" in
++ echo 'option (java stack max size)............ none'
++ debugOut 'option (java heap max size)............. 50331648'
++ case "$LAX_DEBUG" in
++ echo 'option (java heap max size)............. 50331648'
++ debugOut 'option (java heap initial size)......... 16777216'
++ case "$LAX_DEBUG" in
++ echo 'option (java heap initial size)......... 16777216'
++ debugOut 'option (lax.nl.java.option.additional).. none'
++ case "$LAX_DEBUG" in
++ echo 'option (lax.nl.java.option.additional).. none'
++ resolveLink /usr/local/java1.6/bin/java
++ rl_linked=true
++ rl_operand=/usr/local/java1.6/bin/java
+++ dirname /usr/local/java1.6/bin/java
++ rl_origDir=/usr/local/java1.6/bin
+++ /bin/ls -l /usr/local/java1.6/bin/java
++ rl_ls='-rwxr-xr-x 1 root root 50810 Jul 31  2009 /usr/local/java1.6/bin/java'
++ case "$rl_ls" in
++ resolvedLink=/usr/local/java1.6/bin/java
++ return
++ actvm=/usr/local/java1.6/bin/java
+++ basename /usr/local/java1.6/bin/java
++ actvmBinaryName=java
+++ dirname /usr/local/java1.6/bin/java
++ actvmHome=/usr/local/java1.6/bin
+++ basename /usr/local/java1.6/bin
++ '[' bin = bin ']'
+++ dirname /usr/local/java1.6/bin
++ JAVA_HOME=/usr/local/java1.6
++ export JAVA_HOME
++ '[' true = true ']'
++ '[' Xen_US.UTF-8 = X ']'
++ LANG=en_US.UTF-8
++ debugOut ''
++ case "$LAX_DEBUG" in
++ echo ''
++ debugOut '[7m========= Display settings ===========================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= Display settings ===========================================[0m'
++ isRemoteDisplay=false
++ '[' true = true -a false = false -a false = false -a '!' linux = darwin ']'
+++ hostname
++ hostname=fr-par-zantafio.comverse.com
++ isRemoteDisplay=true
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = fr-par-zantafio.comverse.com:0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = fr-par-zantafio.comverse.com:0.0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = localhost:0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = localhost:0.0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = unix:0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = unix:0.0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = :0 ']'
++ for display in '${hostname}:0' '${hostname}:0.0' localhost:0 localhost:0.0 unix:0 unix:0.0 :0 :0.0
++ '[' localhost:10.0 = :0.0 ']'
++ xDisp=local
++ '[' true = true ']'
++ xDisp=remote
++ '[' -z localhost:10.0 ']'
++ debugOut 'X display............................... remote'
++ case "$LAX_DEBUG" in
++ echo 'X display............................... remote'
++ '[' -z localhost:10.0 -a gui = gui ']'
++ '[' true = true -a gui = gui ']'
++ debugOut '[1mWARNING:  The name  of  this  host (fr-par-zantafio.comverse.com) and  the setting'
++ case "$LAX_DEBUG" in
++ echo '[1mWARNING:  The name  of  this  host (fr-par-zantafio.comverse.com) and  the setting'
++ debugOut 'of this  shell'\''s DISPLAY (localhost:10.0) variable do not match.'
++ case "$LAX_DEBUG" in
++ echo 'of this  shell'\''s DISPLAY (localhost:10.0) variable do not match.'
++ debugOut 'If this launcher is being displayed to a Microsoft Windows desktop'
++ case "$LAX_DEBUG" in
++ echo 'If this launcher is being displayed to a Microsoft Windows desktop'
++ debugOut 'through X Windows the Java Virtual Machine might abort. Try running'
++ case "$LAX_DEBUG" in
++ echo 'through X Windows the Java Virtual Machine might abort. Try running'
++ debugOut 'this installer locally on the target system or through X Windows to'
++ case "$LAX_DEBUG" in
++ echo 'this installer locally on the target system or through X Windows to'
++ debugOut 'another UNIX host if the installer unexpectedly fails.[0m'
++ case "$LAX_DEBUG" in
++ echo 'another UNIX host if the installer unexpectedly fails.[0m'
++ debugOut 'UI mode................................. gui'
++ case "$LAX_DEBUG" in
++ echo 'UI mode................................. gui'
++ '[' true = true -a gui '!=' silent ']'
++ echo ''
++ echo 'Launching installer...'
++ echo ''
++ ENV=
++ export ENV
++ debugOut '[7m========= VM Command Line ============================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= VM Command Line ============================================[0m'
++ debugOut '[1moptions:[0m   '
++ case "$LAX_DEBUG" in
++ echo '[1moptions:[0m   '
++ CLASSPATH=/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip:/home/oracle/app/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6.jar
++ export CLASSPATH
++ debugOut '[7mCLASSPATH:[0m/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip:/home/oracle/app/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6.jar'
++ case "$LAX_DEBUG" in
++ echo '[7mCLASSPATH:[0m/tmp/install.dir.27578/InstallerData:/tmp/install.dir.27578/InstallerData/installer.zip:/home/oracle/app/oracle/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6.jar'
+++ echo /usr/local/java1.6/bin/java
+++ grep 'jre$'
++ '[' '' ']'
++ debugOut ''
++ case "$LAX_DEBUG" in
++ echo ''
++ unset POSIXLY_CORRECT
++ '[' ']'
++ debugOut '[7m========= Forking JAVA =============================================[0m'
++ case "$LAX_DEBUG" in
++ echo '[7m========= Forking JAVA =============================================[0m'
++ '[' ']'
++ exec /usr/local/java1.6/bin/java com.zerog.lax.LAX /tmp/install.dir.27578/temp.lax /tmp/env.properties.27578 '"-f"' '"instoldpla.conf"'
+X connection to localhost:10.0 broken (explicit kill or server shutdown).

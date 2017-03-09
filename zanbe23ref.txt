@@ -1,0 +1,8 @@
+All,
+
+The new zanbe23 PLATFORM reference  is the build number 132860. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe23_reference
+
+SwF

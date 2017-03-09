@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+  <TITLE>Clearquest Legacy bugs status</TITLE>
+</HEAD>
+
+<BODY>
+<BR>
+<BR><BR>
+<H2><font color=0080ff>ClearQuest Legacy PR status:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Customer</TH>
+<TH>Service</TH>
+<TH>Module</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>Assign To</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>1</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Business</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33608485&entityDefName=CBS_Defect>CBS00054053</a></TD><TD>Synchrnizer throws an exception when trying to process files that loads data in</TD><TD>2</TD><TD BGCOLOR=ff0000>Immediate</TD><TD></TD><TD>Submitted</TD><TD>06-MAR-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>2</TD><TD>O2_UK_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>MyNetonomy OCM</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33606448&entityDefName=CBS_Defect>CBS00052016</a></TD><TD>OCM Auditing/Logging of changes and events.</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Steven Decruynaere</TD><TD>Request4Reject</TD><TD>02-FEB-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>3</TD><TD>TELSTRA_BT_MAINT</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy OCM</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33599936&entityDefName=CBS_Defect>CBS00045504</a></TD><TD>MOaM : OCM : Unable to create products in OCM</TD><TD>3</TD><TD BGCOLOR=ff0000>Immediate</TD><TD>Jose Magcalas</TD><TD>Request4Reject</TD><TD>16-OCT-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>4</TD><TD>SETAR_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33598030&entityDefName=CBS_Defect>CBS00043598</a></TD><TD>TroubleTicketIF.getProblemType	in BusinessObjects.xsd in SDK</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Arnaud Lenfant</TD><TD>Submitted</TD><TD>23-SEP-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>5</TD><TD>SETAR_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33596698&entityDefName=CBS_Defect>CBS00042266</a></TD><TD>ETL BillPeriod Naming Convention</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>William McKenna</TD><TD>Ready4Verification</TD><TD>08-SEP-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>6</TD><TD>O2_UK_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33596489&entityDefName=CBS_Defect>CBS00042057</a></TD><TD>Connecting to secure webservices</TD><TD>3</TD><TD BGCOLOR=fdfa00>Low</TD><TD>Arnaud Lenfant</TD><TD>Submitted</TD><TD>04-SEP-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>7</TD><TD>VERIZON_VOL_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33596470&entityDefName=CBS_Defect>CBS00042038</a></TD><TD>DoSyncOrg does not update billing account status</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Arnaud Lenfant</TD><TD>Request4Reject</TD><TD>04-SEP-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>8</TD><TD>TELSTRA_BT_MAINT</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33575298&entityDefName=CBS_Defect>CBS00020866</a></TD><TD>Synchronizer-Stalling</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Didier Niel</TD><TD>Request4Reproduction</TD><TD>19-MAY-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>9</TD><TD>GA</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy OCM</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33567310&entityDefName=CBS_Defect>CBS00012878</a></TD><TD>MoAM Application logs following error in language [key="en"] even when the appli</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Venkatram Abbireddy</TD><TD>Request4Reproduction</TD><TD>17-FEB-08</TD></TR>
+</TABLE>
+<BR><BR>
+<H2><font color=0080ff>ClearQuest Legacy other DEFECT TYPE status:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Customer</TH>
+<TH>Service</TH>
+<TH>Module</TH>
+<TH>Defect Type</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>Assign To</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>1</TD><TD>GA</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Business</TD><TD>Doc</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33565094&entityDefName=CBS_Defect>CBS00010662</a></TD><TD>Self-Service JSP doc</TD><TD>4</TD><TD BGCOLOR=fdfa00>Low</TD><TD>William McKenna</TD><TD>Waiting4Solution</TD><TD>13-FEB-08</TD></TR>
+</TABLE>
+<p class=MsoNormal style='margin-left:.5in'><font size=2 color=black
+face=Arial><span style='font-size:10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=MsoNormal><font size=2 color=black face=Arial><span style='font-size:
+10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p style='margin-bottom:12.0pt'><font size=2 color=gray face=Times New Roman><span
+lang=FR style='font-size:10.0pt;color:gray'>--</span></font><font size=2><span
+lang=FR style='font-size:10.0pt'><br>
+<strong><b><font color=#0080ff face=Times New Roman><span style='color:
+#0080FF'>Marc AUBERT</span></font></b></strong><br>
+<font color=gray><span style='color:gray'>Configuration Management - Build
+process<br>
+Converged Billing Solutions<br>
+<strong><b><font face=Times New Roman>Comverse France</font></b></strong><br>
+Tour Franklin - 100 terrasse Boieldieu<br>
+92042 Paris-la-Dénse - France<br>
+Office: +33 155 67 9212<br>
+Marc.Aubert@comverse.com</span></font><br>
+</span></font><a href=http://www.comverse.com><span lang=FR>http://www.comverse.com</span></a><span
+lang=FR><o:p></o:p></span></p>
+
+<p class=MsoNormal><font size=3 face=Times New Roman><span lang=FR
+style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+</BODY></HTML>

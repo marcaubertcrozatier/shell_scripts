@@ -1,0 +1,8 @@
+All,
+
+The new zanbe5 PLATFORM reference  is the build number 147074. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe5_reference
+
+SwF

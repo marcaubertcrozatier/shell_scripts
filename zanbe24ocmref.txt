@@ -1,0 +1,8 @@
+All,
+
+The new cm_c_one_3.5.85_mirs4.5TC1.0 OCM reference  is the build number 138059. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe24_reference
+
+SwF

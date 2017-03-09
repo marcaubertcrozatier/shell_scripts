@@ -1,0 +1,8 @@
+All,
+
+The new 3.5.80GTT4.6 OCM reference  is the build number TC1.0. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe9_reference
+
+SwF

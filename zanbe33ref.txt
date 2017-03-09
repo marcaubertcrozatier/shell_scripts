@@ -1,0 +1,8 @@
+All,
+
+The new zanbe33 PLATFORM reference  is the build number 5.0. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe33_reference
+
+SwF

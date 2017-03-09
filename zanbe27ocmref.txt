@@ -1,0 +1,8 @@
+All,
+
+The new 3.7.1TR2 OCM reference  is the build number TC10.4. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe27_reference
+
+SwF

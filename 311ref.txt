@@ -1,0 +1,8 @@
+All,
+
+The new reference 3.0.15 PLATFORM  is the build number 89489. It's available at
+the usual location:
+
+ftp://jerusalem/builds/311_platform_reference
+
+SwF

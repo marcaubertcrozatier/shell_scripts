@@ -1,0 +1,58 @@
+
+
+
+
+
+
+CSS-Consumer_B2C
+
+2		High		CBS00070961
+
+REGR: Immediate Payment for Device fails
+
+Self Service
+
+Ready4Packaging
+
+  16778736 01-OCT-09 GA
+
+Marc Aubert					     33625393
+
+
+
+CSS-Consumer_B2C
+
+3		Medium		CBS00070869
+
+When "Eligibility Unknown" and click on Connect we should go to the "Test Servic
+
+e Ability" page
+
+Self Service
+
+Ready4Packaging
+
+  16778736 30-SEP-09 GA
+
+Marc Aubert					     33625301
+
+
+
+CSS-Consumer_B2C
+
+2		High		CBS00070762
+
+Error shown on modifying F &F entry,yet the F & F list was updated with the new
+
+values
+
+Self Service
+
+Ready4Packaging
+
+  16778736 29-SEP-09 GA
+
+Marc Aubert					     33625194
+
+
+

@@ -1,0 +1,11 @@
+<BR><BR>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>Module</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>CSS-Connector4B2C_POS</TD><TD><CENTER>1</CENTER></TD><TD>Immediate</TD><TD>CBS00042773</TD><TD>"java.sql.SQLException: Io exception: Socket read timed out" in css_ccbsconnecto</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>CSS-Consumer_B2C</TD><TD><CENTER>2</CENTER></TD><TD>High</TD><TD>CBS00041980</TD><TD>Env#3: Related Invoice No. not displayed on View Payments Page</TD></TR>

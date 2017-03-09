@@ -1,0 +1,8 @@
+All,
+
+The new zanbe25 PLATFORM reference  is the build number 148421. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe25_reference
+
+SwF

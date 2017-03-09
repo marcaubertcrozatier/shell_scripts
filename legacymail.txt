@@ -1,0 +1,101 @@
+<HTML>
+<HEAD>
+  <TITLE>Clearquest Legacy bugs status</TITLE>
+</HEAD>
+
+<BODY>
+<BR>
+<BR><BR>
+<H2><font color=0080ff>ClearQuest Non Legacy PR status:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Customer</TH>
+<TH>Service</TH>
+<TH>Version</TH>
+<TH>Module</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>Assign To</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>1</TD><TD>UTS</TD><TD><CENTER>Self Service</CENTER></TD><TD>3.0.15</TD><TD>CSS-Connector4B2C_POS</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33612751&entityDefName=CBS_Defect>CBS00058319</a></TD><TD>CSS connector logging in to UPA every second as infocss</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Olga Smolyar</TD><TD>Request4Reproduction</TD><TD>29-APR-09</TD></TR>
+</TABLE>
+<BR><BR>
+<H2><font color=0080ff>ClearQuest Legacy PR status:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Customer</TH>
+<TH>Service</TH>
+<TH>Module</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>Assign To</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>1</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33623636&entityDefName=CBS_Defect>CBS00069204</a></TD><TD>ETL process fails when it encounter a line with empty field values</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Kuntal Patel</TD><TD>Request4Reject</TD><TD>09-SEP-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>2</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33622186&entityDefName=CBS_Defect>CBS00067754</a></TD><TD>Oracle script that supposed to create partitions automatically is not running ev</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Yaroslav Rudenko</TD><TD>Ready4Integration</TD><TD>20-AUG-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>3</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33619910&entityDefName=CBS_Defect>CBS00065478</a></TD><TD>Disputes module: Save DATE is used as Submit DATE.</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Yaroslav Rudenko</TD><TD>Ready4Integration</TD><TD>20-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>4</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33619909&entityDefName=CBS_Defect>CBS00065477</a></TD><TD>Dispute module alert to Verizon when the Dispute is submited (to remind them tha</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Yaroslav Rudenko</TD><TD>Ready4Integration</TD><TD>20-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>5</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33619908&entityDefName=CBS_Defect>CBS00065476</a></TD><TD>Disputes module Issues related to Responses/translating responses to Resolution_</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Yaroslav Rudenko</TD><TD>Submitted</TD><TD>20-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>6</TD><TD>MTS</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33619837&entityDefName=CBS_Defect>CBS00065405</a></TD><TD>Weblogic 9.2/10 QRA graph display issue, java.lang.NullPointerException</TD><TD>3</TD><TD BGCOLOR=fdfa00>Low</TD><TD></TD><TD>Submitted</TD><TD>20-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>7</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33619575&entityDefName=CBS_Defect>CBS00065143</a></TD><TD>Some fields needs to made un-editable on the "To submit" dispute screen.</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD></TD><TD>Ready4Packaging</TD><TD>15-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>8</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33619084&entityDefName=CBS_Defect>CBS00064652</a></TD><TD>Dispute Id display format for notifications needs to be changed so that comma in</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Yaroslav Rudenko</TD><TD>Ready4Integration</TD><TD>07-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>9</TD><TD>VERIZON_VADI_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>SDG-CUSTOM_INTERFACE</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33618834&entityDefName=CBS_Defect>CBS00064402</a></TD><TD>Dispute amounts is not displayed consistently acroos the various dispute pages</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Yaroslav Rudenko</TD><TD>Ready4Integration</TD><TD>02-JUL-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>10</TD><TD>TELSTRA_BT_MAINT</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy OCM</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33614993&entityDefName=CBS_Defect>CBS00060561</a></TD><TD>OCM publication failing due to variable length limitation</TD><TD>3</TD><TD BGCOLOR=fd7700>High</TD><TD>Jason Susas</TD><TD>Ready4Verification</TD><TD>25-MAY-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>11</TD><TD>TELSTRA_BT_MAINT</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy OCM</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33599936&entityDefName=CBS_Defect>CBS00045504</a></TD><TD>MOaM : OCM : Unable to create products in OCM</TD><TD>3</TD><TD BGCOLOR=ff0000>Immediate</TD><TD>Jose Magcalas</TD><TD>Request4Reject</TD><TD>16-OCT-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>12</TD><TD>O2_UK_MAINT</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33596489&entityDefName=CBS_Defect>CBS00042057</a></TD><TD>Connecting to secure webservices</TD><TD>3</TD><TD BGCOLOR=fdfa00>Low</TD><TD>Arnaud Lenfant</TD><TD>Submitted</TD><TD>04-SEP-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>13</TD><TD>TELSTRA_BT_MAINT</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33575298&entityDefName=CBS_Defect>CBS00020866</a></TD><TD>Synchronizer-Stalling</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Steven Decruynaere</TD><TD>Ready4Verification</TD><TD>19-MAY-08</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>14</TD><TD>GA</TD><TD><CENTER>MyNetonomy 3.7.2</CENTER></TD><TD>MyNetonomy Platform</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33567310&entityDefName=CBS_Defect>CBS00012878</a></TD><TD>MoAM Application logs following error in language [key="en"] even when the appli</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Steven Decruynaere</TD><TD>Ready4Verification</TD><TD>17-FEB-08</TD></TR>
+</TABLE>
+<BR><BR>
+<H2><font color=0080ff>ClearQuest Legacy other DEFECT TYPE status:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Customer</TH>
+<TH>Service</TH>
+<TH>Module</TH>
+<TH>Defect Type</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>Assign To</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>1</TD><TD>new_project</TD><TD><CENTER>Self-Service 3.10.1</CENTER></TD><TD>CSS Platform</TD><TD>Doc</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33624164&entityDefName=CBS_Defect>CBS00069732</a></TD></TD><TD>documentation description table columns in transformer of a joineddataprovider s</TD><TD>4</TD><TD BGCOLOR=fdfa00>Low</TD><TD>Nomi Burstein</TD><TD>Submitted</TD><TD>16-SEP-09</TD></TR>
+</TABLE>
+<p class=MsoNormal style='margin-left:.5in'><font size=2 color=black
+face=Arial><span style='font-size:10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=MsoNormal><font size=2 color=black face=Arial><span style='font-size:
+10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p style='margin-bottom:12.0pt'><font size=2 color=gray face=Times New Roman><span
+lang=FR style='font-size:10.0pt;color:gray'>--</span></font><font size=2><span
+lang=FR style='font-size:10.0pt'><br>
+<strong><b><font color=#0080ff face=Times New Roman><span style='color:
+#0080FF'>Marc AUBERT</span></font></b></strong><br>
+<font color=gray><span style='color:gray'>Configuration Management - Build
+process<br>
+Converged Billing Solutions<br>
+<strong><b><font face=Times New Roman>Comverse France</font></b></strong><br>
+Tour Franklin - 100 terrasse Boieldieu<br>
+92042 Paris-la-Dénse - France<br>
+Office: +33 155 67 9212<br>
+Marc.Aubert@comverse.com</span></font><br>
+</span></font><a href=http://www.comverse.com><span lang=FR>http://www.comverse.com</span></a><span
+lang=FR><o:p></o:p></span></p>
+
+<p class=MsoNormal><font size=3 face=Times New Roman><span lang=FR
+style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+</BODY></HTML>

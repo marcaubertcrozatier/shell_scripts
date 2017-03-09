@@ -1,0 +1,8 @@
+All,
+
+The new reference M6PLATFORM  is the build number 81462. It's available at
+the usual location:
+
+ftp://proxytc01-xp.csg.csgsystems.com/M6_platform_reference
+
+SwF

@@ -1,0 +1,8 @@
+All,
+
+The new zanbe15 PLATFORM reference  is the build number 2012. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe15_reference
+
+SwF

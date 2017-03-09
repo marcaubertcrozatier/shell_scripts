@@ -1,0 +1,8 @@
+All,
+
+The new zanbe22 PLATFORM reference  is the build number 146156. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe22_reference
+
+SwF

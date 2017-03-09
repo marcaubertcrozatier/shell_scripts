@@ -1,0 +1,8 @@
+All,
+
+The new 3.5.908.2 OCM reference  is the build number 121098. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe11_reference
+
+SwF

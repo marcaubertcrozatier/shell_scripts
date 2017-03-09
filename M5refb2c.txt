@@ -1,0 +1,7 @@
+Tous,
+
+La nouvelle M5B2C de reference est la M5. Elle est disponible a 
+l'endroit habituel : 
+ftp://jerusalem/builds/M5_b2c_reference/     
+
+SwF

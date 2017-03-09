@@ -1,0 +1,5 @@
+label=$1
+p4 label -o $label > label.$$
+sed -e "13,$ s|unlocked|locked|" < label.$$ > label2.$$
+p4 label -i < label2.$$
+rm label.$$ label2.$$

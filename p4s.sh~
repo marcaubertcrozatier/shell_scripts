@@ -1,0 +1,84 @@
+#!/bin/sh
+#
+#
+BUILDS=/home/jerusalem2/sf/cdimages/swf/milestones/M6-DIT4-TR2.1
+SRCROOT=//depot/cbs3/M6/ccbs
+TMP=/tmp
+#
+cd /home/jerusalem/maubert/shell
+if [ -f p4smail.txt ]
+then rm -f p4smail.txt
+fi
+cp p4smail.in p4smail.txt
+cd $BUILDS
+placl=`\ls -d cbs-css-platform*|awk -F"-" '{print $7}'`
+ocmcl=`\ls -d cbs-css-ocm*|awk -F"-" '{print $7}'`
+b2ccl=`\ls -d cbs-css-consumer*|awk -F"-" '{print $7}'`
+ikcl=`\ls -d cbs-css-is*|awk -F"-" '{print $7}'`
+#
+for comp in platform ocm apps ik
+do
+	if [ -f $TMP/$comp.txt ]
+	then rm -f $TMP/$comp.txt
+	fi
+	if [ -f $TMP/${comp}2.txt ]
+	then rm -f $TMP/${comp}2.txt
+	fi
+	if [ -f $TMP/${comp}_res.txt ]
+	then rm -f $TMP/${comp}_res.txt
+	fi
+	#
+	case $comp in
+		platform) comp2=platform;;
+		ocm) comp2=ocm;;
+		apps) comp2=consumer;;
+		ik) comp2=is;;
+	esac
+	firstcl=`\ls -d cbs-css-$comp2*|awk -F"-" '{print $7}'`
+	lastcl=`p4 changes $SRCROOT/$comp/... |head -1|awk '{print $2}'`
+	nbcl=`expr $lastcl - $firstcl`
+	#
+	if [ ! "${nbcl}" = "0" ]
+	then p4 changes -m $nbcl $SRCROOT/$comp/... |grep -v nsuser > $TMP/$comp.txt
+	else echo none > $TMP/$comp.txt
+	fi
+	#
+	while read line
+	do
+		cl=`echo $line|awk '{print $2}'`
+		if [ $cl -gt $firstcl ]
+		then echo $line >> $TMP/${comp}2.txt
+		fi
+	done < $TMP/$comp.txt
+	if [ ! -f $TMP/${comp}2.txt ]
+	then echo none > $TMP/${comp}2.txt
+	fi
+	#
+	while read line
+	do
+		cl=`echo $line|awk '{print $2}'`
+		da=`echo $line|awk '{print $4}'`
+		au=`echo $line|awk '{print $6}'`
+		p4 change -o $cl > $TMP/change.tmp
+		nbl=`wc -l $TMP/change.tmp|awk '{print $1}'`
+		rl=`expr $nbl - 25`
+		de=`tail -$rl $TMP/change.tmp|sed -e "s/\t//"`
+	done < $TMP/${comp}2.txt
+		echo "<TR BGCOLOR=$VERT><TD>$cl</TD><TD><CENTER>$da</CENTER></TD><TD>$au</TD><TD>$de</TD></TR>" >> p4smail.txt
+
+done
+
+
+echo " </TABLE>" >> p4smail.txt
+echo " <BR><BR>" >> p4smail.txt
+echo " <a href=#zero>Top</a><HR>" >> p4smail.txt
+echo " <a href="mailto:Marc.Aubert@Comverse.com">The Software Factory Team.</a>" >> p4smail.txt
+echo "</BODY></HTML>" >> p4smail.txt
+email -html -s "status" Marc.Aubert@comverse.com < p4smail.txt
+
+
+
+
+
+
+

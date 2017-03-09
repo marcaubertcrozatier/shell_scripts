@@ -1,0 +1,156 @@
+
+
+
+
+
+
+CSS Business
+
+2		Immediate	CBS00054053
+
+Synchrnizer throws an exception when trying to process files that loads data in
+
+database
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 06-MAR-09 VERIZON_VADI_MAINT
+
+						     33608485
+
+
+
+MyNetonomy OCM
+
+3		Medium		CBS00052016
+
+OCM Auditing/Logging of changes and events.
+
+Self-Service 3.10.1
+
+Request4Reject
+
+  16778462 02-FEB-09 O2_UK_MAINT
+
+Steven Decruynaere				     33606448
+
+
+
+MyNetonomy OCM
+
+3		Immediate	CBS00045504
+
+MOaM : OCM : Unable to create products in OCM
+
+MyNetonomy 3.7.2
+
+Request4Reject
+
+  16778462 16-OCT-08 TELSTRA_BT_MAINT
+
+Jose Magcalas					     33599936
+
+
+
+CSS Platform
+
+3		Medium		CBS00043598
+
+TroubleTicketIF.getProblemType	in BusinessObjects.xsd in SDK
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 23-SEP-08 SETAR_MAINT
+
+Arnaud Lenfant					     33598030
+
+
+
+CSS Platform
+
+3		Medium		CBS00042266
+
+ETL BillPeriod Naming Convention
+
+Self-Service 3.10.1
+
+Ready4Verification
+
+  16778188 08-SEP-08 SETAR_MAINT
+
+William  McKenna				     33596698
+
+
+
+CSS Platform
+
+3		Low		CBS00042057
+
+Connecting to secure webservices
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 04-SEP-08 O2_UK_MAINT
+
+Arnaud Lenfant					     33596489
+
+
+
+CSS Platform
+
+3		Medium		CBS00042038
+
+DoSyncOrg does not update billing account status
+
+Self-Service 3.10.1
+
+Request4Reject
+
+  16778462 04-SEP-08 VERIZON_VOL_MAINT
+
+Arnaud Lenfant					     33596470
+
+
+
+MyNetonomy Platform
+
+3		Medium		CBS00020866
+
+Synchronizer-Stalling
+
+MyNetonomy 3.7.2
+
+Request4Reproduction
+
+  16778325 19-MAY-08 TELSTRA_BT_MAINT
+
+Didier Niel					     33575298
+
+
+
+MyNetonomy OCM
+
+3		Medium		CBS00012878
+
+MoAM Application logs following error in language [key="en"] even when the appli
+
+cation is down.
+
+MyNetonomy 3.7.2
+
+Request4Reproduction
+
+  16778325 17-FEB-08 GA
+
+Venkatram Abbireddy				     33567310
+
+
+
+9 rows selected.
+

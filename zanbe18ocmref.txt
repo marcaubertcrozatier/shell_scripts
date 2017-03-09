@@ -1,0 +1,8 @@
+All,
+
+The new cm_c_one_3.5.80_jersey3.x_LookAndFeel_tmpTC2.0 OCM reference  is the build number 130714. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe18_reference
+
+SwF

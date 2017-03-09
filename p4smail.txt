@@ -1,0 +1,145 @@
+<HTML>
+<HEAD>
+  <TITLE>Build status</TITLE>
+</HEAD>
+
+<BODY>
+<BR>
+All,
+<BR>
+<BR>
+Here is the status on CQ bugs and the last !BUILD! builds : 
+<BR>
+<BR>
+<BR>
+<BR><HR><BR>
+<H2><font color=0080ff>platform:</font></H2>
+<li>
+<B>Last build:</B> cbs-css-platform-c-one-94622-2009-09-07T1056
+</li>
+<li>
+<B>Last TR build:</B> cbs-css-platform-c-one-3.2.0-7.1-94803-2009-09-11T1654
+</li>
+<li>
+<B>Changelists submited since last TR build:</B>
+</li>
+<BR><BR>
+<li>
+DEV : RTC : go to "default" exit point instead of warning jsp if RTC call is disabled
+</li>
+<li>
+CBS00064602: replace only value of service parameter by parent parameter value, not parameter itself, because we would lose the propagate to parent flag.
+Do not get the default service parameter, rather the actual service parameter.
+</li>
+<li>
+revert platform file wrongly submited
+</li>
+<BR><BR>
+<BR><HR><BR>
+<H2><font color=0080ff>ocm:</font></H2>
+<li>
+<B>Last build:</B> cbs-css-ocm-c-one-94629-2009-09-07T1206
+</li>
+<li>
+<B>Last TR build:</B> cbs-css-ocm-c-one-3.2.0-7.1-94901-2009-09-15T1827
+</li>
+<li>
+<B>Changelists submited since last TR build:</B>
+</li>
+<BR><BR>
+<li>
+CBS00069513: catch SQL exception if OCM2CID fails in OCM publication page
+</li>
+<li>
+[DEV][OCM] Export extra data for Inventory Validation.
+</li>
+<BR><BR>
+<BR><HR><BR>
+<H2><font color=0080ff>apps:</font></H2>
+<li>
+<B>Last build:</B> cbs-css-consumer-c-one-3.2.0-9.0-94972-20090917133714
+</li>
+<li>
+<B>Last TR build:</B> cbs-css-consumer-c-one-3.2.0-7.1-94922-20090916112247
+</li>
+<li>
+<B>Changelists submited since last TR build:</B>
+</li>
+<BR><BR>
+<li>
+[DEV][POS] Pre2Postpaid migration (Account Information Review step) (change to pageflow)
+</li>
+<li>
+DEV : RTC : go to "default" exit point instead of warning jsp if RTC call is disabled
+</li>
+<li>
+CBS00069552 : no serviceability check when use click on "no thanks, no price plan"
+</li>
+<li>
+add forgotten error code: RTC_CALL_ACCOUNT_IN_USE
+</li>
+<li>
+CBS00069468: more generic error message when a fandf number is rejected in back end
+</li>
+<li>
+[DEV][POS] For subscriber bundles list, "Cancel button" should be displayed as well as for account bundles list
+</li>
+<li>
+CBS00064602: replace only value of service parameter by parent parameter value, not parameter itself, because we would lose the propagate to parent flag.
+Do not get the default service parameter, rather the actual service parameter.
+</li>
+<li>
+CBS00069223 : planSerieId was lost after waiting page
+</li>
+<li>
+[DEV][APP] Export extra data for Inventory Validation.
+</li>
+<BR><BR>
+<BR><HR><BR>
+<H2><font color=0080ff>ik:</font></H2>
+<li>
+<B>Last build:</B> cbs-css-is-c-one-3.2.0-9.0-94978-20090917134832
+</li>
+<li>
+<B>Last TR build:</B> cbs-css-is-c-one-3.2.0-7.1-94931-20090916120811
+</li>
+<li>
+<B>Changelists submited since last TR build:</B>
+</li>
+<BR><BR>
+<li>
+DEV: TC9 changes
+</li>
+<li>
+[DEV][IS] Change package names for the refactored AuthenticationHandler and MasterAddressFind classes.
+</li>
+<li>
+update package name for MasterAddressFind in its Unit Test
+</li>
+<BR><BR>
+<BR><HR><BR>
+<p class=MsoNormal style='margin-left:.5in'><font size=2 color=black
+face=Arial><span style='font-size:10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=MsoNormal><font size=2 color=black face=Arial><span style='font-size:
+10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p style='margin-bottom:12.0pt'><font size=2 color=gray face=Times New Roman><span
+lang=FR style='font-size:10.0pt;color:gray'>--</span></font><font size=2><span
+lang=FR style='font-size:10.0pt'><br>
+<strong><b><font color=#0080ff face=Times New Roman><span style='color:
+#0080FF'>Marc AUBERT</span></font></b></strong><br>
+<font color=gray><span style='color:gray'>Configuration Management - Build
+process<br>
+Converged Billing Solutions<br>
+<strong><b><font face=Times New Roman>Comverse France</font></b></strong><br>
+Tour Franklin - 100 terrasse Boieldieu<br>
+92042 Paris-la-Dénse - France<br>
+Office: +33 155 67 9212<br>
+Marc.Aubert@comverse.com</span></font><br>
+</span></font><a href=http://www.comverse.com><span lang=FR>http://www.comverse.com</span></a><span
+lang=FR><o:p></o:p></span></p>
+
+<p class=MsoNormal><font size=3 face=Times New Roman><span lang=FR
+style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+</BODY></HTML>

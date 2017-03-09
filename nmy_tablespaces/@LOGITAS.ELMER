@@ -1,0 +1,10 @@
+
+SQL*Plus: Release 9.2.0.1.0 - Production on Wed Oct 13 19:30:40 2004
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+ERROR:
+ORA-12545: Connect failed because target host or object does not exist
+
+
+Enter user-name: 

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+CSS Platform
+
+4		Low		CBS00069732
+
+documentation description table columns in transformer of a joineddataprovider s
+
+yntax is
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 16-SEP-09 new_project
+
+Nomi Burstein					     33624164 Doc
+
+
+

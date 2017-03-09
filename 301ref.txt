@@ -1,0 +1,7 @@
+Tous,
+
+La nouvelle plateforme de reference 3.0.1 est la 87418. Elle est disponible a 
+l'endroit habituel : 
+ftp://jerusalem/builds/301_platform_reference/     
+
+SwF

@@ -1,0 +1,8 @@
+All,
+
+The new cm_c_one_3.5.90_telia7.1TC3.0 OCM reference  is the build number 150614. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe19_reference
+
+SwF

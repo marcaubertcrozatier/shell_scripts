@@ -1,0 +1,1420 @@
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:08:41
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:09:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:19:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:20:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:20:06
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:28:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:33:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:33:53
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:33:53
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:36:11
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:36:13
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:46:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:46:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:46:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:55:06
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:55:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:55:58
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:56:57
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:57:05
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:57:05
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:57:42
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 18:59:19
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:05:23
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:07:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:07:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:07:48
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:09:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:10:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:10:29
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:10:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:10:56
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:04
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:20
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:22
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:22
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:28
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:36
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:11:42
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:12:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:12:57
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:02
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:08
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:10
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:17
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:45
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:48
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:13:50
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:15:37
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:15:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:15:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:15:49
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:16:06
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:16:24
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:16:25
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:16:26
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:16:39
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:16:51
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:17:01
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:17:14
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:17:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:17:16
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:17:52
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:19:19
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:19:21
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:21:15
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:21:19
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:21:19
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:27:17
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:27:51
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:27:54
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=beq)(PROGRAM=/export/home/oracle/OraHome3/bin/oracle)(ARGV0=oracle)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')(DETACH=NO))(CONNECT_DATA=(CID=(PROGRAM=)(HOST=gap)(USER=nsuser))))
+
+  VERSION INFORMATION:
+	TNS for Solaris: Version 9.2.0.1.0 - Production
+	Oracle Bequeath NT Protocol Adapter for Solaris: Version 9.2.0.1.0 - Production
+  Time: 13-OCT-2004 19:30:40
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 2
+    nt OS err code: 0

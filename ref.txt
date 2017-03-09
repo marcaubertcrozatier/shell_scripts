@@ -1,0 +1,8 @@
+All,
+
+The new reference CCBSPLATFORM  is the build number 95371. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_reference
+
+SwF

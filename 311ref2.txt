@@ -1,0 +1,8 @@
+All,
+
+The new reference 3.0.11 PLATFORM  is the build number 87528. It's available at
+the usual location:
+
+ftp://proxytc01-xp.csg.csgsystems.com/311_platform_reference
+
+SwF

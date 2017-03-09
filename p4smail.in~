@@ -1,0 +1,90 @@
+<HTML>
+<HEAD>
+  <TITLE>A new build is available</TITLE>
+</HEAD>
+
+<BODY>
+<a name=zero></a><H1>A new build is available: <a href=ftp://jerusalem/cdimages/!BUILDTYPE!/!PROJECT!/!NOMDIR!/>!LABEL!</a></H1>
+
+
+<BR>
+<BR>
+<BR>
+
+<BR><HR><BR>
+<TABLE>
+<TR VALIGN=top>
+
+<TD>
+<H2>Build shortcuts :</H2>
+<ul>
+<li><a href=#un>Build</a> information</li>
+<li><a href=#deux>Build measures</a> information</li>
+<li><a href=#trois>changlists</a> information</li>
+<li><a href=#quatre>Unit tests</a> information</li>
+<li><a href=#six>SwF</a> links</li>
+</ul>
+</TD>
+
+<TD WIDTH="10">&nbsp;</TD>
+
+<TD>
+<H2>Project shortcuts:</H2>
+<ul>
+<li><a href=http://jerusalem/twiki/bin/view/Main/MerlotProject>Merlot home page</a></li>
+<li><a href=http://jerusalem/twiki/bin/view/Main/SyrahProject>Syrah home page</a></li>
+</ul>
+</TD>
+
+<TD WIDTH="20">&nbsp;</TD>
+
+<TD>
+<H2>SwF shortcuts :</H2>
+<ul>
+<li><a href=http://jerusalem/twiki/bin/view/Main/SwfHome> SwF home page</a></li>
+<li><a href=http://jerusalem/twiki/bin/view/TWiki/TWikiRegistration> twiki registration</a></li>
+<li>What are <a href=http://jerusalem/twiki/bin/view/Main/SmokeTests> Smoke Tests</a> </li>
+</ul>
+</TD>
+
+</TR>
+</TABLE>
+
+<BR><a name=un></a><HR><BR>
+
+<H2>Build information :</H2>
+
+<TABLE>
+<TR VALIGN=top>
+
+<TD>
+<B>Product information :</B>
+<BR>
+<TABLE BORDER=1 CELLPADDING=4>
+  <TR><TD BGCOLOR=!COTITRE!><B>Nom</a></B></TD><TD BGCOLOR=!CODON!><CENTER>!NOM!</CENTER></TD></TR>
+  <TR><TD BGCOLOR=!COTITRE!><B>Version</a></B></TD><TD BGCOLOR=!CODON!><CENTER>!VERSION!</CENTER></TD></TR>
+  <TR><TD BGCOLOR=!COTITRE!><B>Build</a></B></TD><TD BGCOLOR=!CODON!><CENTER>!BUILD!</CENTER></TD></TR>
+  <TR><TD BGCOLOR=!COTITRE!><B>Date</a></B></TD><TD BGCOLOR=!CODON!><CENTER>!DATE!</CENTER></TD></TR>
+  <TR><TD BGCOLOR=!COTITRE!><B>Duree</a></B></TD><TD BGCOLOR=!CODON!><CENTER>!DUREE!</CENTER></TD></TR>
+  <BR>
+</TABLE>
+</TD>
+
+<TD WIDTH="50">&nbsp;</TD>
+
+<TD>
+<B>SwF information :</B>
+<BR>
+<BR>
+<TABLE BORDER=1 CELLPADDING=4>
+  <TR><TD BGCOLOR=!COTITRE!><B>Perforce branch</B></TD><TD BGCOLOR=!CODON!><a href=http://jerusalem/perforce/depot/!BRANCHNAME!/>//depot/!BRANCHNAME!</a></TD></TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+
+<BR><a href=#zero>Top</a><a name=deux></a><HR><BR>
+
+<H2>Build measures information :</H2>
+<TR>Build measures are available <a href=ftp://jerusalem/builds/!BUILDTYPE!/!PROJECT!/!NOMDIR!/buildmeasures/measures.xls>here.</a>
+  </TR>

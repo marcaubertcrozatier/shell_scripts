@@ -1,0 +1,8 @@
+All,
+
+The new zanbe17 PLATFORM reference  is the build number 130744. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe17_reference
+
+SwF

@@ -1,0 +1,24 @@
+
+
+
+
+
+
+CSS-Connector4B2C_POS
+
+3		High		CBS00058319
+
+CSS connector logging in to UPA every second as infocss
+
+Self Service
+
+Request4Reproduction
+
+  16778325 29-APR-09 UTS
+
+Olga Smolyar					     33612751
+
+3.0.15
+
+
+

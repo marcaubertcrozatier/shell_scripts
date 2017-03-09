@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+  <TITLE>Clearquest b2c bugs status</TITLE>
+</HEAD>
+
+<BODY>
+<BR>
+<BR><BR>
+<H2><font color=0080ff>ClearQuest B2C PR status:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Customer</TH>
+<TH>Service</TH>
+<TH>Module</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>Assign To</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>
+<TR BGCOLOR=F6F6F6><TD>1</TD><TD>GA</TD><TD><CENTER>Self Service</CENTER></TD><TD>CSS-Consumer_B2C</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33625393&entityDefName=CBS_Defect>CBS00070961</a></TD><TD>REGR: Immediate Payment for Device fails</TD><TD>2</TD><TD BGCOLOR=fd7700>High</TD><TD>Marc Aubert</TD><TD>Ready4Packaging</TD><TD>01-OCT-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>2</TD><TD>GA</TD><TD><CENTER>Self Service</CENTER></TD><TD>CSS-Consumer_B2C</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33625301&entityDefName=CBS_Defect>CBS00070869</a></TD><TD>When "Eligibility Unknown" and click on Connect we should go to the "Test Servic</TD><TD>3</TD><TD BGCOLOR=fdca00>Medium</TD><TD>Marc Aubert</TD><TD>Ready4Packaging</TD><TD>30-SEP-09</TD></TR>
+<TR BGCOLOR=F6F6F6><TD>3</TD><TD>GA</TD><TD><CENTER>Self Service</CENTER></TD><TD>CSS-Consumer_B2C</TD><TD><a href=http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=CBS&entityID=33625194&entityDefName=CBS_Defect>CBS00070762</a></TD><TD>Error shown on modifying F &F entry,yet the F & F list was updated with the new</TD><TD>2</TD><TD BGCOLOR=fd7700>High</TD><TD>Marc Aubert</TD><TD>Ready4Packaging</TD><TD>29-SEP-09</TD></TR>
+</TABLE>
+<p class=MsoNormal style='margin-left:.5in'><font size=2 color=black
+face=Arial><span style='font-size:10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=MsoNormal><font size=2 color=black face=Arial><span style='font-size:
+10.0pt;font-family:Arial;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p style='margin-bottom:12.0pt'><font size=2 color=gray face=Times New Roman><span
+lang=FR style='font-size:10.0pt;color:gray'>--</span></font><font size=2><span
+lang=FR style='font-size:10.0pt'><br>
+<strong><b><font color=#0080ff face=Times New Roman><span style='color:
+#0080FF'>Marc AUBERT</span></font></b></strong><br>
+<font color=gray><span style='color:gray'>Configuration Management - Build
+process<br>
+Converged Billing Solutions<br>
+<strong><b><font face=Times New Roman>Comverse France</font></b></strong><br>
+Tour Franklin - 100 terrasse Boieldieu<br>
+92042 Paris-la-Dénse - France<br>
+Office: +33 155 67 9212<br>
+Marc.Aubert@comverse.com</span></font><br>
+</span></font><a href=http://www.comverse.com><span lang=FR>http://www.comverse.com</span></a><span
+lang=FR><o:p></o:p></span></p>
+
+<p class=MsoNormal><font size=3 face=Times New Roman><span lang=FR
+style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+</BODY></HTML>

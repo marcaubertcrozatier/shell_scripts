@@ -1,0 +1,8 @@
+All,
+
+The new 3.7.7TC0.1 OCM reference  is the build number 146159. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe22_reference
+
+SwF

@@ -1,0 +1,6 @@
+Suivi de NUTCRACKER : http://jerusalem/cgi-bin/nut.cgi
+
+Changelists prises en compte :
+------------------------------
+
+Change 71115 mnguyen <Matthieu.Nguyen@comverse.com> (Matthieu Nguyen)

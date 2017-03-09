@@ -1,0 +1,8 @@
+All,
+
+The new reference 3.0.0 PLATFORM  is the build number 85484. It's available at
+the usual location:
+
+ftp://proxytc01-xp.csg.csgsystems.com/300_platform_reference
+
+SwF

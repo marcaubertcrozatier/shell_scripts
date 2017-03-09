@@ -1,0 +1,8 @@
+All,
+
+The new 3.5.90_Mstar2.03.4 OCM reference  is the build number 124583. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe5_reference
+
+SwF

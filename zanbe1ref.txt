@@ -1,0 +1,8 @@
+All,
+
+The new zanbe1 PLATFORM reference  is the build number 114682. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_zanbe1_reference
+
+SwF

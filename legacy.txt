@@ -1,0 +1,242 @@
+
+
+
+
+
+
+CSS Platform
+
+3		High		CBS00069204
+
+ETL process fails when it encounter a line with empty field values
+
+Self-Service 3.10.1
+
+Request4Reject
+
+  16778462 09-SEP-09 VERIZON_VADI_MAINT
+
+Kuntal Patel					     33623636
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		High		CBS00067754
+
+Oracle script that supposed to create partitions automatically is not running ev
+
+ery month.
+
+Self-Service 3.10.1
+
+Ready4Integration
+
+  16779284 20-AUG-09 VERIZON_VADI_MAINT
+
+Yaroslav Rudenko				     33622186
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		Medium		CBS00065478
+
+Disputes module: Save DATE is used as Submit DATE.
+
+Self-Service 3.10.1
+
+Ready4Integration
+
+  16779284 20-JUL-09 VERIZON_VADI_MAINT
+
+Yaroslav Rudenko				     33619910
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		High		CBS00065477
+
+Dispute module alert to Verizon when the Dispute is submited (to remind them tha
+
+t they need to resolve in 10 days)
+
+Self-Service 3.10.1
+
+Ready4Integration
+
+  16779284 20-JUL-09 VERIZON_VADI_MAINT
+
+Yaroslav Rudenko				     33619909
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		High		CBS00065476
+
+Disputes module Issues related to Responses/translating responses to Resolution_
+
+codes etc.
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 20-JUL-09 VERIZON_VADI_MAINT
+
+Yaroslav Rudenko				     33619908
+
+
+
+CSS Platform
+
+3		Low		CBS00065405
+
+Weblogic 9.2/10 QRA graph display issue, java.lang.NullPointerException
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 20-JUL-09 MTS
+
+						     33619837
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		High		CBS00065143
+
+Some fields needs to made un-editable on the "To submit" dispute screen.
+
+Self-Service 3.10.1
+
+Ready4Packaging
+
+  16778736 15-JUL-09 VERIZON_VADI_MAINT
+
+						     33619575
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		High		CBS00064652
+
+Dispute Id display format for notifications needs to be changed so that comma in
+
+ not inserted in the value
+
+Self-Service 3.10.1
+
+Ready4Integration
+
+  16779284 07-JUL-09 VERIZON_VADI_MAINT
+
+Yaroslav Rudenko				     33619084
+
+
+
+SDG-CUSTOM_INTERFACE
+
+3		High		CBS00064402
+
+Dispute amounts is not displayed consistently acroos the various dispute pages
+
+Self-Service 3.10.1
+
+Ready4Integration
+
+  16779284 02-JUL-09 VERIZON_VADI_MAINT
+
+Yaroslav Rudenko				     33618834
+
+
+
+MyNetonomy OCM
+
+3		High		CBS00060561
+
+OCM publication failing due to variable length limitation
+
+MyNetonomy 3.7.2
+
+Ready4Verification
+
+  16778188 25-MAY-09 TELSTRA_BT_MAINT
+
+Jason Susas					     33614993
+
+
+
+MyNetonomy OCM
+
+3		Immediate	CBS00045504
+
+MOaM : OCM : Unable to create products in OCM
+
+MyNetonomy 3.7.2
+
+Request4Reject
+
+  16778462 16-OCT-08 TELSTRA_BT_MAINT
+
+Jose Magcalas					     33599936
+
+
+
+CSS Platform
+
+3		Low		CBS00042057
+
+Connecting to secure webservices
+
+Self-Service 3.10.1
+
+Submitted
+
+  16777587 04-SEP-08 O2_UK_MAINT
+
+Arnaud Lenfant					     33596489
+
+
+
+MyNetonomy Platform
+
+3		Medium		CBS00020866
+
+Synchronizer-Stalling
+
+MyNetonomy 3.7.2
+
+Ready4Verification
+
+  16778188 19-MAY-08 TELSTRA_BT_MAINT
+
+Steven Decruynaere				     33575298
+
+
+
+MyNetonomy Platform
+
+3		Medium		CBS00012878
+
+MoAM Application logs following error in language [key="en"] even when the appli
+
+cation is down.
+
+MyNetonomy 3.7.2
+
+Ready4Verification
+
+  16778188 17-FEB-08 GA
+
+Steven Decruynaere				     33567310
+
+
+
+14 rows selected.
+

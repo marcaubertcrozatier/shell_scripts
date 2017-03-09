@@ -1,0 +1,21 @@
+<HTML>
+<HEAD>
+  <TITLE>A new Clearquest Legacy bugs has been submitted</TITLE>
+</HEAD>
+
+<BODY>
+<BR>
+<BR><BR>
+<H2><font color=0080ff> A new CLearQuest Legacy Bug has been submitted:</font></H2>
+<TABLE BORDER=1 CELLPADDING=4>
+<TR  BGCOLOR=DDDDDD>
+<TH>#</TH>
+<TH>Service Name</TH>
+<TH>Module</TH>
+<TH>ID</TH>
+<TH>Title</TH>
+<TH>Severity</TH>
+<TH>Priority</TH>
+<TH>State</TH>
+<TH>Submit Date</TH>
+</TR>

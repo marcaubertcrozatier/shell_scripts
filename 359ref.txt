@@ -1,0 +1,8 @@
+All,
+
+The new 3.5.90 PLATFORM reference  is the build number 122572. It's available at
+the usual location:
+
+ftp://jerusalem/builds/platform_359_reference
+
+SwF

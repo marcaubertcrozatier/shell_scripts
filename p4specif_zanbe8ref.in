@@ -1,0 +1,27 @@
+# Perforce Change Specification.
+#
+#  Change:      The change number. 'new' on a new changelist.  Read-only.
+#  Date:        The date this specification was last modified.  Read-only.
+#  Client:      The client on which the changelist was created.  Read-only.
+#  User:        The user who created the changelist. Read-only.
+#  Status:      Either 'pending' or 'submitted'. Read-only.
+#  Description: Comments about the changelist.  Required.
+#  Jobs:        What opened jobs are to be closed by this changelist.
+#               You may delete jobs from this list.  (New changelists only.)
+#  Files:       What opened files from the default changelist are to be added
+#               to this changelist.  You may delete files from this list.
+#               (New changelists only.)
+                                                                     
+Change: new
+                                                                     
+Client: zanbe8apps_zan
+                                                                     
+User:   nsuser
+                                                                     
+Status: new
+                                                                     
+Description:
+        SWF:changement reference zanbe8.
+                                                                     
+Files:
+        //depot/maint/cm_c_one_3.5.90_mstar1.0_drop9.0_maint/swf/css-apps/reference.properties   # edit

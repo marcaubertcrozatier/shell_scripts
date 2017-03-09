@@ -1,0 +1,7 @@
+Tous,
+
+La nouvelle plateforme de reference M6 est la 81462. Elle est disponible a 
+l'endroit habituel : 
+ftp://jerusalem/builds/M6_platform_reference/     
+
+SwF

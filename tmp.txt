@@ -1,0 +1,289 @@
+
+deuxieme
+nb=1
+customer=new_project
+sname1=Self-Service
+sname2=3.10.1
+module=CSS Platform
+type=Doc
+id=CBS00069732
+dbid=33624164
+title=documentation description table columns in transformer of a joineddataprovider s
+severity=4
+priority=Low
+owner=
+state=Submitted
+sdate=16-SEP-09
+ptest=
+line=33624164 Doc
+
+deuxieme
+nb=2
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=CSS Platform
+type=PR
+id=CBS00069204
+dbid=33623636
+title=ETL process fails when it encounter a line with empty field values
+severity=3
+priority=High
+owner=
+state=Submitted
+sdate=09-SEP-09
+ptest=
+line=33623636 PR
+
+deuxieme
+nb=3
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00067754
+dbid=33622186
+title=Oracle script that supposed to create partitions automatically is not running ev
+severity=3
+priority=High
+owner=Yaroslav Rudenko
+state=Ready4Integration
+sdate=20-AUG-09
+ptest=PR
+line=Yaroslav Rudenko				     33622186 PR
+
+deuxieme
+nb=4
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00065478
+dbid=33619910
+title=Disputes module: Save DATE is used as Submit DATE.
+severity=3
+priority=Medium
+owner=Yaroslav Rudenko
+state=Ready4Integration
+sdate=20-JUL-09
+ptest=PR
+line=Yaroslav Rudenko				     33619910 PR
+
+deuxieme
+nb=5
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00065477
+dbid=33619909
+title=Dispute module alert to Verizon when the Dispute is submited (to remind them tha
+severity=3
+priority=High
+owner=Yaroslav Rudenko
+state=Ready4Integration
+sdate=20-JUL-09
+ptest=PR
+line=Yaroslav Rudenko				     33619909 PR
+
+deuxieme
+nb=6
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00065476
+dbid=33619908
+title=Disputes module Issues related to Responses/translating responses to Resolution_
+severity=3
+priority=High
+owner=Yaroslav Rudenko
+state=Submitted
+sdate=20-JUL-09
+ptest=PR
+line=Yaroslav Rudenko				     33619908 PR
+
+deuxieme
+nb=7
+customer=MTS
+sname1=Self-Service
+sname2=3.10.1
+module=CSS Platform
+type=PR
+id=CBS00065405
+dbid=33619837
+title=Weblogic 9.2/10 QRA graph display issue, java.lang.NullPointerException
+severity=3
+priority=Low
+owner=
+state=Submitted
+sdate=20-JUL-09
+ptest=
+line=33619837 PR
+
+deuxieme
+nb=8
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00065143
+dbid=33619575
+title=Some fields needs to made un-editable on the "To submit" dispute screen.
+severity=3
+priority=High
+owner=
+state=Ready4Packaging
+sdate=15-JUL-09
+ptest=
+line=33619575 PR
+
+deuxieme
+nb=9
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00064652
+dbid=33619084
+title=Dispute Id display format for notifications needs to be changed so that comma in
+severity=3
+priority=High
+owner=Yaroslav Rudenko
+state=Ready4Integration
+sdate=07-JUL-09
+ptest=PR
+line=Yaroslav Rudenko				     33619084 PR
+
+deuxieme
+nb=10
+customer=VERIZON_VADI_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=SDG-CUSTOM_INTERFACE
+type=PR
+id=CBS00064402
+dbid=33618834
+title=Dispute amounts is not displayed consistently acroos the various dispute pages
+severity=3
+priority=High
+owner=Yaroslav Rudenko
+state=Ready4Integration
+sdate=02-JUL-09
+ptest=PR
+line=Yaroslav Rudenko				     33618834 PR
+
+deuxieme
+nb=11
+customer=TELSTRA_BT_MAINT
+sname1=MyNetonomy
+sname2=3.7.2
+module=MyNetonomy OCM
+type=PR
+id=CBS00060561
+dbid=33614993
+title=OCM publication failing due to variable length limitation
+severity=3
+priority=High
+owner=Jason Susas
+state=Ready4Verification
+sdate=25-MAY-09
+ptest=PR
+line=Jason Susas					     33614993 PR
+
+deuxieme
+nb=12
+customer=UTS
+sname1=Self
+sname2=Service
+module=CSS-Connector4B2C_POS
+type=PR
+id=CBS00058319
+dbid=33612751
+title=CSS connector logging in to UPA every second as infocss
+severity=3
+priority=High
+owner=Olga Smolyar
+state=Request4Reproduction
+sdate=29-APR-09
+ptest=PR
+line=Olga Smolyar					     33612751 PR
+
+deuxieme
+nb=13
+customer=TELSTRA_BT_MAINT
+sname1=MyNetonomy
+sname2=3.7.2
+module=MyNetonomy OCM
+type=PR
+id=CBS00045504
+dbid=33599936
+title=MOaM : OCM : Unable to create products in OCM
+severity=3
+priority=Immediate
+owner=Jose Magcalas
+state=Request4Reject
+sdate=16-OCT-08
+ptest=PR
+line=Jose Magcalas					     33599936 PR
+
+deuxieme
+nb=14
+customer=O2_UK_MAINT
+sname1=Self-Service
+sname2=3.10.1
+module=CSS Platform
+type=PR
+id=CBS00042057
+dbid=33596489
+title=Connecting to secure webservices
+severity=3
+priority=Low
+owner=Arnaud Lenfant
+state=Submitted
+sdate=04-SEP-08
+ptest=PR
+line=Arnaud Lenfant					     33596489 PR
+
+deuxieme
+nb=15
+customer=TELSTRA_BT_MAINT
+sname1=MyNetonomy
+sname2=3.7.2
+module=MyNetonomy Platform
+type=PR
+id=CBS00020866
+dbid=33575298
+title=Synchronizer-Stalling
+severity=3
+priority=Medium
+owner=Steven Decruynaere
+state=Ready4Verification
+sdate=19-MAY-08
+ptest=PR
+line=Steven Decruynaere				     33575298 PR
+
+deuxieme
+nb=16
+customer=GA
+sname1=MyNetonomy
+sname2=3.7.2
+module=MyNetonomy Platform
+type=PR
+id=CBS00012878
+dbid=33567310
+title=MoAM Application logs following error in language [key="en"] even when the appli
+severity=3
+priority=Medium
+owner=Steven Decruynaere
+state=Ready4Verification
+sdate=17-FEB-08
+ptest=PR
+line=Steven Decruynaere				     33567310 PR
+Communicating with SMTP server...Sending DATA...                    

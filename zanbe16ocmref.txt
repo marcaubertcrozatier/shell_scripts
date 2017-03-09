@@ -1,0 +1,8 @@
+All,
+
+The new cm_c_one_3.5.80_jersey4.7.1TC6.0 OCM reference  is the build number 150645. It's available at
+the usual location:
+
+ftp://jerusalem/builds/ocm_zanbe16_reference
+
+SwF
